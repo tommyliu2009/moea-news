@@ -1,0 +1,43 @@
+# 經濟部新聞網
+
+> 本網站每日自動彙整經濟部及所屬機關發布的新聞，提供最新資訊。每則新聞均附原始出處連結與發布日期，方便使用者查證與追蹤。
+
+- 網址：https://web8.subsidyking.tw/
+- 主題：經濟部與所屬機關新聞
+- 更新：2026-10-24（每日自動更新）
+- 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
+- 維護：仁禾管理顧問
+
+## 最新內容
+- 2026-10-24 薔琵強風侵襲 台電高雄區處持續搶修 力拚全數復電：https://service.taipower.com.tw/branch/d109/xmdoc/cont?xsmsid=0M242581316150560462&sid=0Q296645457163884959
+- 2026-10-23 薔琵颱風肆虐台中地區已復電94.73%剩1,006戶停電 台電馬不停蹄持續搶修：https://service.taipower.com.tw/branch/d105/xmdoc/cont?xsmsid=0M242581312281594239&sid=0Q296793901497981164
+- 2026-10-23 薔琵颱風狂吹10級以上強風！新竹地區逾5000餘戶停電 台電新竹區處動員人力機具積極搶修：https://service.taipower.com.tw/branch/d104/xmdoc/cont?xsmsid=0M242581319249050237&sid=0Q296664520975748167&sq=
+- 2026-10-23 產業服務電子報第 522 期：https://www.ida.gov.tw/ctlr?PRO=epaper.rwdEpaperView&id=7289
+- 2026-10-23 【薔琵颱風侵襲宜蘭釀3092戶停電 台電啟動跨區支援加速搶修】：https://service.taipower.com.tw/branch/d113/xmdoc/cont?xsmsid=0M242581313636852538&sid=0Q296752995298462880
+- 2026-10-23 中颱薔琵風力持續不斷 雲林台電夜以繼日搶修 力拼明日全數復電：https://service.taipower.com.tw/branch/d120/xmdoc/cont?xsmsid=0M242581316296880113&sid=0Q296737588610611595
+- 2026-10-23 薔琵襲嘉義萬戶停電 台電冒雨搶修：https://service.taipower.com.tw/branch/d107/xmdoc/cont?xsmsid=0M242581314926336504&sid=0Q296754928708753986
+- 2026-10-23 中颱薔琵強風吹襲台南 台電台南區處全力搶修復電：https://service.taipower.com.tw/branch/d108/xmdoc/cont?xsmsid=0M242581318524475655&sid=0Q296752320217665891
+- 2026-10-23 薔琵颱風強風來襲 台電彰化區處動員全力搶修：https://service.taipower.com.tw/branch/d106/xmdoc/cont?xsmsid=0M242581310794318445&sid=0Q296694292889442836
+- 2026-10-23 薔琵颱風造成基隆、新北部分地區零星停電事故 台電基隆區處隨報隨修：https://service.taipower.com.tw/branch/d101/xmdoc/cont?xsmsid=0M242581313607741071&sid=0Q296687906934797795
+- 2026-10-23 「薔琵颱風」來襲 曾造成苗栗停電3,000戶 台電積極搶修中：https://service.taipower.com.tw/branch/d122/xmdoc/cont?xsmsid=0M242581312203220350&sid=0Q296720847844186077
+- 2026-10-23 薔琵颱風侵襲釀14.6萬戶停電 台電啟動跨區支援加速搶修：https://www.taipower.com.tw/2289/2323/2324/70574/
+- 2026-10-23 中颱薔琵造成士林、北投等地區停電3381戶 台電北北區處積極搶修中：https://service.taipower.com.tw/branch/d116/xmdoc/cont?xsmsid=0M242581312763389988&sid=0Q296629507480524322
+- 2026-10-23 薔琵颱風入夜來襲 跨區支援北南區處明早全力搶修：https://service.taipower.com.tw/branch/d115/xmdoc/cont?xsmsid=0M242581313450953093&sid=0Q296645110434794446
+- 2026-10-23 「薔琵」颱風暴風圈籠罩全台 台電新營區處全力搶修復電：https://service.taipower.com.tw/branch/d121/xmdoc/cont?xsmsid=0M242581317372169840&sid=0Q296651086198842071
+- 2026-10-23 全臺第一座一次配電變電所：三民配電變電所-電業文物典藏：https://service.taipower.com.tw/Collection/2009/2025/16068/
+- 2026-10-23 薔琵颱風造成宜蘭地區停電1301戶 台電積極搶修中：https://service.taipower.com.tw/branch/d113/xmdoc/cont?xsmsid=0M242581313636852538&sid=0Q296531594845673908
+- 2026-10-23 中颱薔琵強風不容小覷！海線停電事故不斷 台電雲林區處全力搶修、嚴陣以待：https://service.taipower.com.tw/branch/d120/xmdoc/cont?xsmsid=0M242581316296880113&sid=0Q296523990725381861
+- 2026-10-23 薔琵颱風來襲 台中地區停電1,285戶 台電積極搶修中：https://service.taipower.com.tw/branch/d105/xmdoc/cont?xsmsid=0M242581312281594239&sid=0Q296498530990825428
+- 2026-10-23 薔琵颱風來襲！台電澎湖區營業處再度呼籲民衆做好防颱準備：https://service.taipower.com.tw/branch/d114/xmdoc/cont?xsmsid=0M242581311844535205&sid=0Q296441493397987863
+- 2026-10-23 薔琵颱風造成彰化地區停電6仟餘戶 台電積極搶修中：https://service.taipower.com.tw/branch/d106/xmdoc/cont?xsmsid=0M242581310794318445&sid=0Q296425143057919748
+- 2026-10-23 智財活動通-115年智慧財產權知識推廣訓練課程-「掌握審查節奏，讓專利布局更有彈性」：https://www1.tipo.gov.tw/act/sp-activity-form-3804-e7e2e-formal-5.html
+- 2026-10-23 經濟部龔部長視導經濟部應變小組 勉勵同仁齊心協力守護臺灣：https://www.wra.gov.tw/News_Content.aspx?n=6430&sms=9122&s=300363
+- 2026-10-23 【北分署啟動阿姆坪防淤隧道沖淤20萬立方公尺淤泥入海！】：https://www.wra.gov.tw/wranb/News_Content.aspx?n=36753&sms=10128&s=300356
+- 2026-10-23 《深刻認識一個人：發現自己與他人的非凡之處》閱後感想：https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=10101&n=30173&sms=9942
+
+## 相關網站
+- 補助王：https://www.subsidyking.tw/
+- 研發補助王：https://web20.subsidyking.tw/
+- 標案王：https://www.bidking.tw/
+- 節能補助王：https://web7.subsidyking.tw/
+- 仁禾管理顧問：https://web18.subsidyking.tw/
