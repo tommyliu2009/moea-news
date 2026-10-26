@@ -4,11 +4,12 @@
 
 - 網址：https://web8.subsidyking.tw/
 - 主題：經濟部與所屬機關新聞
-- 更新：2026-10-26（每日自動更新）
+- 更新：2026-10-27（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-10-26 智財活動通-115年智慧財產權知識推廣訓練課程-「商標識別性案例實務探討」：https://www1.tipo.gov.tw/act/sp-activity-form-3806-938f0-formal-5.html
 - 2026-10-25 第九河川分署-最新消息-薔琵颱風來襲九河分署堅守第一線崗位全力守護花蓮鄉親安全：https://www.wra.gov.tw/wra09/News_Content.aspx?n=14748&s=300369
 - 2026-10-25 薔琵侵襲 基隆區處逾5.2萬戶停電 台電啟動跨區處支援搶修 力拼今晩全數復電：https://service.taipower.com.tw/branch/d101/xmdoc/cont?xsmsid=0M242581313607741071&sid=0Q298676715312046410
 - 2026-10-25 薔琵颱風來襲宜蘭一度停電逾3萬戶 台電全力搶修已全數復電：https://service.taipower.com.tw/branch/d113/xmdoc/cont?xsmsid=0M242581313636852538&sid=0Q298567609760838255
@@ -33,7 +34,6 @@
 - 2026-10-24 薔琵颱風來襲，北水分署堅守超過53小時，全力守護水庫安全與穩定供水！：https://www.wra.gov.tw/wranb/News_Content.aspx?n=36753&sms=10128&s=300370
 - 2026-10-24 「台電一家 同舟共濟」，北市區處支援薔琵颱風跨區搶修！：https://service.taipower.com.tw/branch/d102/xmdoc/cont?xsmsid=0M242581318059576161&sid=0Q297620010505290358
 - 2026-10-24 台電彰化區處全面總動員，攜手線路承攬商共同守護彰化：https://service.taipower.com.tw/branch/d106/xmdoc/cont?xsmsid=0M242581310794318445&sid=0Q297574441800191250
-- 2026-10-24 薔琵颱風發威強襲 台電新營區處復電率達99%!：https://service.taipower.com.tw/branch/d121/xmdoc/cont?xsmsid=0M242581317372169840&sid=0Q297571826373273289
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
