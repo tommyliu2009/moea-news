@@ -4,11 +4,24 @@
 
 - 網址：https://web8.subsidyking.tw/
 - 主題：經濟部與所屬機關新聞
-- 更新：2026-10-28（每日自動更新）
+- 更新：2026-10-29（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-10-28 荖濃溪伏流水工程竣工：為珍珠串再添明珠，強化大南方新矽谷供水韌性：https://www.wra.gov.tw/News_Video_Content.aspx?n=6216&sms=9109&s=300460
+- 2026-10-28 經濟部「通訊大賽」引領17國72隊角逐次世代通訊創新應用桂冠，開創國際通訊新商機：https://www.ida.gov.tw/ctlr?PRO=news.NewsView&id=43409
+- 2026-10-28 經濟部：促扣件產業轉型升級整合技術金融與拓銷資源助業者穩定營運切入高值市場| 新聞發布| 金屬機電產業：https://www.ida.gov.tw/ctlr?PRO=news.NewsView&id=43408
+- 2026-10-28 面對AI浪潮，產發署如何為產業培育AI應用人才?：https://www.ida.gov.tw/ctlr?PRO=film.FilmView&id=3543
+- 2026-10-28 【創新創業與產經政策】行政院通過「中小微企業轉型升級發展條例」草案，規劃8年千億助攻百工百業轉型：https://findit.sme.gov.tw/tw/News/Details/2485
+- 2026-10-28 【創新創業與產經政策】日本經產省擬修法授權強制調查 打擊劣質M&A中介業者：https://findit.sme.gov.tw/tw/News/Details/2490
+- 2026-10-28 【創新創業與產經政策】日本規劃自2027年起建立資料中心及雲端安全認證制度：https://findit.sme.gov.tw/tw/News/Details/2491
+- 2026-10-28 智財活動通-華淵鑑價—智財創新與管理研討會第16場「氣候失序下的農業新賽局：從科技創新到永續競爭力」線上研討會：https://www1.tipo.gov.tw/act/sp-activity-form-3809-66aab-formal-5.html
+- 2026-10-28 【創新創業與產經政策】新加坡協助中小企業將人工智慧融入營運：https://findit.sme.gov.tw/tw/News/Details/2493
+- 2026-10-28 把握薔琵降雨，水庫接近蓄滿 水利署：穩定枯水期供水更具信心：https://www.wra.gov.tw/News_Content.aspx?n=6430&sms=9122&s=300443
+- 2026-10-28 「台中電廠第二期新建燃氣機組計畫3至6號複循環發電機組設備及其廠房與相關設施採購帶安裝案」機關採購廉政平臺：https://www.taipower.com.tw/2289/2345/49690/2461/68751/normalPost
+- 2026-10-28 經濟部標準檢驗局新竹分局115年度商品檢驗及報驗發證業者座談會：https://hsinchu.bsmi.gov.tw/wSite/ct?xItem=130149&ctNode=8509&mp=4
+- 2026-10-28 公告公開評選「台電公司新北市汐止區工建段195及236地號土地」都市更新事業實施者案，請踴躍參加投標：https://www.taipower.com.tw/2289/2323/2337/70602/normalPost
 - 2026-10-27 公告訊息- 新聞與公告：https://traderemedy.trade.gov.tw/web/main/news/wfrmNews.aspx?kind=3&menu_id=31&news_id=5139
 - 2026-10-27 白海豚颱風逼近 第一河川分署嚴陣以待 強化宜蘭地區防汛整備：https://www.wra.gov.tw/wra01/News_Content.aspx?n=9383&sms=9203&s=300390
 - 2026-10-27 即時說明-今夏供電一路綠燈！未來十年已有準備台電續推電力建設盼各界支持：https://www.taipower.com.tw/2289/2323/2332/70605/normalPost
@@ -19,21 +32,8 @@
 - 2026-10-27 本局「整合式專利檢索服務」即日起開放試行，第一階段提供本國專利資料檢索及會員功能，歡迎多加利用！：https://www.tipo.gov.tw/tw/patents/515-99664.html
 - 2026-10-27 揭開廉政風險的面紗： 臺中地方檢察署檢察長為台電彰化區處揭示國營事業的廉政風險：https://service.taipower.com.tw/branch/d106/xmdoc/cont?xsmsid=0M242581310794318445&sid=0Q300427891475753422
 - 2026-10-27 標準檢驗局舉辦「修正玩具商品檢驗作業規定業者說明會」，歡迎踴躍報名!：https://www.bsmi.gov.tw/wSite/ct?xItem=130145&ctNode=8324&mp=111
-- 2026-10-26 智財活動通-115年智慧財產權知識推廣訓練課程-「商標識別性案例實務探討」：https://www1.tipo.gov.tw/act/sp-activity-form-3806-938f0-formal-5.html
-- 2026-10-26 社會創新平台 | Social Innovation：https://startup.sme.gov.tw/sitaiwan/Home/activity/3955
-- 2026-10-25 第九河川分署-最新消息-薔琵颱風來襲九河分署堅守第一線崗位全力守護花蓮鄉親安全：https://www.wra.gov.tw/wra09/News_Content.aspx?n=14748&s=300369
-- 2026-10-25 薔琵侵襲 基隆區處逾5.2萬戶停電 台電啟動跨區處支援搶修 力拼今晩全數復電：https://service.taipower.com.tw/branch/d101/xmdoc/cont?xsmsid=0M242581313607741071&sid=0Q298676715312046410
-- 2026-10-25 薔琵颱風來襲宜蘭一度停電逾3萬戶 台電全力搶修已全數復電：https://service.taipower.com.tw/branch/d113/xmdoc/cont?xsmsid=0M242581313636852538&sid=0Q298567609760838255
-- 2026-10-25 薔琵颱風有雨無災，石門水庫安全操作順利蓄滿！：https://www.wra.gov.tw/wranb/News_Content.aspx?n=36753&sms=10128&s=300376
-- 2026-10-25 台電北南區處連夜搶修 今晨全數復電：https://service.taipower.com.tw/branch/d115/xmdoc/cont?xsmsid=0M242581313450953093&sid=0Q298361435363386639
-- 2026-10-25 薔琵颱風侵襲 北水特分署落實防汛整備、應變維繫大臺北水源安全：https://www.wra.gov.tw/wratb/News_Content.aspx?n=15830&s=300372
-- 2026-10-25 臺南滯洪池太陽能發電系統啟用 綠能兼防洪功能：https://www.wra.gov.tw/News_Content.aspx?n=3800&s=23333&attyear=98%E5%B9%B4
-- 2026-10-24 薔琵強風侵襲 台電高雄區處持續搶修 力拚全數復電：https://service.taipower.com.tw/branch/d109/xmdoc/cont?xsmsid=0M242581316150560462&sid=0Q296645457163884959
-- 2026-10-24 台電持續動員人力搶修，力拼今晚全數復電：https://service.taipower.com.tw/branch/d106/xmdoc/cont?xsmsid=0M242581310794318445&sid=0Q297711833561422320
-- 2026-10-24 颱風薔琵風雨狂襲 新竹一度停電萬餘戶 台電持續動員搶修全數復電：https://service.taipower.com.tw/branch/d104/xmdoc/cont?xsmsid=0M242581319249050237&sid=0Q297684262019632449&sq=
-- 2026-10-24 薔琵襲嘉義釀1.8萬戶停電 台電已全數復電：https://service.taipower.com.tw/branch/d107/xmdoc/cont?xsmsid=0M242581314926336504&sid=0Q297687585199955411
-- 2026-10-24 薔琵遠離全力搶修 台電台中區處動員搶修後 近2萬9千戶已全部復電：https://service.taipower.com.tw/branch/d105/xmdoc/cont?xsmsid=0M242581312281594239&sid=0Q297748378051045498
-- 2026-10-24 薔琵颱風重創宜蘭供電 台電董事長赴現場關心搶修進度：https://service.taipower.com.tw/branch/d113/xmdoc/cont?xsmsid=0M242581313636852538&sid=0Q297702323680043606
+- 2026-10-27 薔琵颱風重創北台！台電南投區營業處無畏強風豪雨處馳援宜蘭基隆搶修復電：https://service.taipower.com.tw/branch/d118/xmdoc/cont?xsmsid=0M242581313194442849&sid=0Q300632799774265191
+- 2026-10-27 【公開招標】甲仙淨水場自動化監控系統及加藥設備整合改善：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261027&fn=TIQ-1-71141452.xml
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
