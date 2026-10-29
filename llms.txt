@@ -4,11 +4,28 @@
 
 - 網址：https://web8.subsidyking.tw/
 - 主題：經濟部與所屬機關新聞
-- 更新：2026-10-29（每日自動更新）
+- 更新：2026-10-30（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-10-30 財政部南區國稅局臺東分局辦理115年度防制菸品稅捐逃漏：https://www.wra.gov.tw/wra08/News_Content.aspx?n=14210&sms=9387&s=300475
+- 2026-10-30 115年11月【國光牌賽車級機油】優惠活動：https://www.cpc.com.tw/News_Content.aspx?n=30&sms=8967&s=112957
+- 2026-10-29 卓院長視察馬太鞍溪系統性治理工程 加速高規格堤防及第二道防線建置 區域河防安全再升級：https://www.wra.gov.tw/News_Content.aspx?n=6430&sms=9122&s=300505
+- 2026-10-29 115年產發署化材科計畫成果發表會 【材料創新?智慧轉型 ：引領產業升級新動能】：https://www.ida.gov.tw/ctlr?PRO=indparknews.IndparknewsView&id=29324
+- 2026-10-29 經濟部「2026 5G Summit」登場 臺美攜手打造AI原生網路 深化次世代通訊戰略合作：https://www.ida.gov.tw/ctlr?PRO=news.NewsView&id=43412
+- 2026-10-29 矽光子製程用關鍵材料推動計畫：https://www.ida.gov.tw/ctlr?PRO=project.ProjectView&id=2997
+- 2026-10-29 關鍵醫材供應鏈整備計畫：https://www.ida.gov.tw/ctlr?PRO=project.ProjectView&id=3000
+- 2026-10-29 醫材產業AI-QMS文件生成與稽核分析工具推廣說明會-台北場：https://www.ida.gov.tw/ctlr?PRO=indparknews.rwdIndparknewsView&id=29322
+- 2026-10-29 高齡科技產業跨域應用成果發表會：https://www.ida.gov.tw/ctlr?PRO=indparknews.rwdIndparknewsView&id=29327
+- 2026-10-29 醫材產業AI-QMS文件生成與稽核分析工具推廣說明會-台中場：https://www.ida.gov.tw/ctlr?PRO=indparknews.rwdIndparknewsView&id=29326
+- 2026-10-29 醫材產業AI-QMS文件生成與稽核分析工具推廣說明會-台南場：https://www.ida.gov.tw/ctlr?PRO=indparknews.rwdIndparknewsView&id=29325
+- 2026-10-29 矽半導體製程材料技術趨勢交流會議：https://www.ida.gov.tw/ctlr?PRO=indparknews.rwdIndparknewsView&id=29323
+- 2026-10-29 公告興辦「朴子溪牛斗山護岸改善工程」第2次公聽會：https://www.wra.gov.tw/News_Content_Table.aspx?n=12&s=300467
+- 2026-10-29 製藥產業垂直整合與韌性推升計畫| 產業輔導| 生技醫藥：https://www.ida.gov.tw/ctlr?PRO=project.rwdProjectView&id=2999
+- 2026-10-29 ▍小小螺絲連結世界！經濟部促臺灣扣件轉型升級：https://www.ida.gov.tw/ctlr?PRO=news.NewsView&id=43410&lang=0
+- 2026-10-29 【近期活動】115年第一次「加強投資綠色成長淨零產業實施方案投資服務計畫」推廣說明會：https://startup.sme.gov.tw/home/modules/calendar/detail/index.php?sId=8401
+- 2026-10-29 台灣雙人股份有限公司電熱水壺商品回收/召回訊息：https://www.bsmi.gov.tw/wSite/ct?xItem=128519&ctNode=8268&mp=1
 - 2026-10-28 荖濃溪伏流水工程竣工：為珍珠串再添明珠，強化大南方新矽谷供水韌性：https://www.wra.gov.tw/News_Video_Content.aspx?n=6216&sms=9109&s=300460
 - 2026-10-28 經濟部「通訊大賽」引領17國72隊角逐次世代通訊創新應用桂冠，開創國際通訊新商機：https://www.ida.gov.tw/ctlr?PRO=news.NewsView&id=43409
 - 2026-10-28 經濟部：促扣件產業轉型升級整合技術金融與拓銷資源助業者穩定營運切入高值市場| 新聞發布| 金屬機電產業：https://www.ida.gov.tw/ctlr?PRO=news.NewsView&id=43408
@@ -17,23 +34,6 @@
 - 2026-10-28 【創新創業與產經政策】日本經產省擬修法授權強制調查 打擊劣質M&A中介業者：https://findit.sme.gov.tw/tw/News/Details/2490
 - 2026-10-28 【創新創業與產經政策】日本規劃自2027年起建立資料中心及雲端安全認證制度：https://findit.sme.gov.tw/tw/News/Details/2491
 - 2026-10-28 智財活動通-華淵鑑價—智財創新與管理研討會第16場「氣候失序下的農業新賽局：從科技創新到永續競爭力」線上研討會：https://www1.tipo.gov.tw/act/sp-activity-form-3809-66aab-formal-5.html
-- 2026-10-28 【創新創業與產經政策】新加坡協助中小企業將人工智慧融入營運：https://findit.sme.gov.tw/tw/News/Details/2493
-- 2026-10-28 把握薔琵降雨，水庫接近蓄滿 水利署：穩定枯水期供水更具信心：https://www.wra.gov.tw/News_Content.aspx?n=6430&sms=9122&s=300443
-- 2026-10-28 「台中電廠第二期新建燃氣機組計畫3至6號複循環發電機組設備及其廠房與相關設施採購帶安裝案」機關採購廉政平臺：https://www.taipower.com.tw/2289/2345/49690/2461/68751/normalPost
-- 2026-10-28 經濟部標準檢驗局新竹分局115年度商品檢驗及報驗發證業者座談會：https://hsinchu.bsmi.gov.tw/wSite/ct?xItem=130149&ctNode=8509&mp=4
-- 2026-10-28 公告公開評選「台電公司新北市汐止區工建段195及236地號土地」都市更新事業實施者案，請踴躍參加投標：https://www.taipower.com.tw/2289/2323/2337/70602/normalPost
-- 2026-10-27 公告訊息- 新聞與公告：https://traderemedy.trade.gov.tw/web/main/news/wfrmNews.aspx?kind=3&menu_id=31&news_id=5139
-- 2026-10-27 白海豚颱風逼近 第一河川分署嚴陣以待 強化宜蘭地區防汛整備：https://www.wra.gov.tw/wra01/News_Content.aspx?n=9383&sms=9203&s=300390
-- 2026-10-27 即時說明-今夏供電一路綠燈！未來十年已有準備台電續推電力建設盼各界支持：https://www.taipower.com.tw/2289/2323/2332/70605/normalPost
-- 2026-10-27 116年度鳥嘴潭人工湖環境監測及檢討分析(116-NMC-05)(第一次限制性招標)：https://www.wra.gov.tw/wracb/News_Content.aspx?n=41265&sms=10263&s=300384
-- 2026-10-27 116年度鯉魚潭水庫抽泥放淤計量檢驗及生態環境調查評估(116-LMC-06)(第一次限制性招標)：https://www.wra.gov.tw/wracb/News_Content.aspx?n=41265&sms=10263&s=300394
-- 2026-10-27 116年度湖山水庫安全檢查及監測分析(116-HMC-09)(第一次限制性招標)：https://www.wra.gov.tw/wracb/News_Content.aspx?n=41265&sms=10263&s=300380
-- 2026-10-27 116年度鳥嘴潭人工湖閘門機電設備維護保養(116-NMC-03)(第一次限制性招標)：https://www.wra.gov.tw/wracb/News_Content.aspx?n=41265&sms=10263&s=300383
-- 2026-10-27 本局「整合式專利檢索服務」即日起開放試行，第一階段提供本國專利資料檢索及會員功能，歡迎多加利用！：https://www.tipo.gov.tw/tw/patents/515-99664.html
-- 2026-10-27 揭開廉政風險的面紗： 臺中地方檢察署檢察長為台電彰化區處揭示國營事業的廉政風險：https://service.taipower.com.tw/branch/d106/xmdoc/cont?xsmsid=0M242581310794318445&sid=0Q300427891475753422
-- 2026-10-27 標準檢驗局舉辦「修正玩具商品檢驗作業規定業者說明會」，歡迎踴躍報名!：https://www.bsmi.gov.tw/wSite/ct?xItem=130145&ctNode=8324&mp=111
-- 2026-10-27 薔琵颱風重創北台！台電南投區營業處無畏強風豪雨處馳援宜蘭基隆搶修復電：https://service.taipower.com.tw/branch/d118/xmdoc/cont?xsmsid=0M242581313194442849&sid=0Q300632799774265191
-- 2026-10-27 【公開招標】甲仙淨水場自動化監控系統及加藥設備整合改善：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261027&fn=TIQ-1-71141452.xml
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
