@@ -4,13 +4,19 @@
 
 - 網址：https://web8.subsidyking.tw/
 - 主題：經濟部與所屬機關新聞
-- 更新：2026-10-30（每日自動更新）
+- 更新：2026-10-31（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
 - 2026-10-30 財政部南區國稅局臺東分局辦理115年度防制菸品稅捐逃漏：https://www.wra.gov.tw/wra08/News_Content.aspx?n=14210&sms=9387&s=300475
 - 2026-10-30 115年11月【國光牌賽車級機油】優惠活動：https://www.cpc.com.tw/News_Content.aspx?n=30&sms=8967&s=112957
+- 2026-10-30 即時說明-供電線路屢遭外力挖損台電籲捷運工程應落實施工防護確保民眾用電權益：https://www.taipower.com.tw/2289/2323/2332/70717/normalPost
+- 2026-10-30 印出創意 刷新價值 第二十屆台灣金印獎頒獎典禮隆重登場：https://www.ida.gov.tw/ctlr?PRO=news.NewsView&id=43418&lang=0
+- 2026-10-30 正確使用冰箱 確保安全！：https://www.bsmi.gov.tw/wSite/ct?ctNode=8155&mp=3&xItem=116274
+- 2026-10-30 為辦理網路設備及伺服器憑證更新作業，除經濟部智慧財產局機關網站外，其餘資訊服務將自115年11月4日(三)中午12時至下午13時30分暫停服務，造成不便之處，敬請見諒。：https://www.tipo.gov.tw/tw/patents/515-99679.html
+- 2026-10-30 115年度1-9月補助計畫核定名單：https://www.ida.gov.tw/ctlr?PRO=grant.DisclosureView&id=17249
+- 2026-10-30 活動訊息與成果-再生能源資訊網：https://ea02.moeaea.gov.tw/d0308/promotion/default.aspx?cid=203&page=5
 - 2026-10-29 卓院長視察馬太鞍溪系統性治理工程 加速高規格堤防及第二道防線建置 區域河防安全再升級：https://www.wra.gov.tw/News_Content.aspx?n=6430&sms=9122&s=300505
 - 2026-10-29 115年產發署化材科計畫成果發表會 【材料創新?智慧轉型 ：引領產業升級新動能】：https://www.ida.gov.tw/ctlr?PRO=indparknews.IndparknewsView&id=29324
 - 2026-10-29 經濟部「2026 5G Summit」登場 臺美攜手打造AI原生網路 深化次世代通訊戰略合作：https://www.ida.gov.tw/ctlr?PRO=news.NewsView&id=43412
@@ -26,14 +32,8 @@
 - 2026-10-29 ▍小小螺絲連結世界！經濟部促臺灣扣件轉型升級：https://www.ida.gov.tw/ctlr?PRO=news.NewsView&id=43410&lang=0
 - 2026-10-29 【近期活動】115年第一次「加強投資綠色成長淨零產業實施方案投資服務計畫」推廣說明會：https://startup.sme.gov.tw/home/modules/calendar/detail/index.php?sId=8401
 - 2026-10-29 台灣雙人股份有限公司電熱水壺商品回收/召回訊息：https://www.bsmi.gov.tw/wSite/ct?xItem=128519&ctNode=8268&mp=1
-- 2026-10-28 荖濃溪伏流水工程竣工：為珍珠串再添明珠，強化大南方新矽谷供水韌性：https://www.wra.gov.tw/News_Video_Content.aspx?n=6216&sms=9109&s=300460
-- 2026-10-28 經濟部「通訊大賽」引領17國72隊角逐次世代通訊創新應用桂冠，開創國際通訊新商機：https://www.ida.gov.tw/ctlr?PRO=news.NewsView&id=43409
-- 2026-10-28 經濟部：促扣件產業轉型升級整合技術金融與拓銷資源助業者穩定營運切入高值市場| 新聞發布| 金屬機電產業：https://www.ida.gov.tw/ctlr?PRO=news.NewsView&id=43408
-- 2026-10-28 面對AI浪潮，產發署如何為產業培育AI應用人才?：https://www.ida.gov.tw/ctlr?PRO=film.FilmView&id=3543
-- 2026-10-28 【創新創業與產經政策】行政院通過「中小微企業轉型升級發展條例」草案，規劃8年千億助攻百工百業轉型：https://findit.sme.gov.tw/tw/News/Details/2485
-- 2026-10-28 【創新創業與產經政策】日本經產省擬修法授權強制調查 打擊劣質M&A中介業者：https://findit.sme.gov.tw/tw/News/Details/2490
-- 2026-10-28 【創新創業與產經政策】日本規劃自2027年起建立資料中心及雲端安全認證制度：https://findit.sme.gov.tw/tw/News/Details/2491
-- 2026-10-28 智財活動通-華淵鑑價—智財創新與管理研討會第16場「氣候失序下的農業新賽局：從科技創新到永續競爭力」線上研討會：https://www1.tipo.gov.tw/act/sp-activity-form-3809-66aab-formal-5.html
+- 2026-10-29 ▍6國重磅來臺、臺美強勢結盟！臺灣大步搶佔 6G 未來商機：https://www.ida.gov.tw/ctlr?PRO=news.NewsView&id=43413&lang=0
+- 2026-10-29 113年計量技術人員考試即日起開放報名：https://tainan.bsmi.gov.tw/wSite/fp?xItem=114336&ctNode=8317&mp=111
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
