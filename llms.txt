@@ -4,15 +4,19 @@
 
 - 網址：https://web8.subsidyking.tw/
 - 主題：經濟部與所屬機關新聞
-- 更新：2026-11-01（每日自動更新）
+- 更新：2026-11-02（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-11-01 115年11月份液化石油氣價格不調整：https://www.cpc.com.tw/News_Content.aspx?n=28&s=112960
+- 2026-11-01 布告欄－115年11月號第335期智慧財產權月刊出版新訊：https://www.tipo.gov.tw/tw/tipo1/799-99350.html
 - 2026-10-31 玩具檢驗總動員 守護兒童安全：https://hualien.bsmi.gov.tw/wSite/ct?xItem=128619&ctNode=8020&mp=8
 - 2026-10-31 全國首座立面彩繪光電示範案發電效益約屋頂型5成-再生能源資訊網：https://ea02.moeaea.gov.tw/d0308/news/more.aspx?cid=198&id=7729
 - 2026-10-31 台灣中油公司公布115年11月份國內天然氣價格：https://www.cpc.com.tw/News_Content.aspx?n=28&sms=8920&s=112958
 - 2026-10-31 成功案例及商品化新知－在海浪聲裡「聽見」溺水者逢甲大學把安全浮球變成會找人的AI救援隊：https://www.tipo.gov.tw/tw/tipo1/788-99670.html
+- 2026-10-31 【新興領域/2026.05焦點】無人駕駛計程車(Robotaxi)進入商業化部署，美中競逐市場領先地位：https://findit.sme.gov.tw/tw/Res/2624
+- 2026-10-31 分局新聞稿 - 經濟部標準檢驗局：https://www.bsmi.gov.tw/SafetyGIP/wSite/fp?xItem=114598&ctNode=10001&mp=4
 - 2026-10-30 財政部南區國稅局臺東分局辦理115年度防制菸品稅捐逃漏：https://www.wra.gov.tw/wra08/News_Content.aspx?n=14210&sms=9387&s=300475
 - 2026-10-30 115年11月【國光牌賽車級機油】優惠活動：https://www.cpc.com.tw/News_Content.aspx?n=30&sms=8967&s=112957
 - 2026-10-30 即時說明-供電線路屢遭外力挖損台電籲捷運工程應落實施工防護確保民眾用電權益：https://www.taipower.com.tw/2289/2323/2332/70717/normalPost
@@ -24,16 +28,12 @@
 - 2026-10-30 協助業者增產及加速進口 經濟部全力協助中：https://www.ida.gov.tw/ctlr?PRO=news.NewsView&id=43416
 - 2026-10-30 彰化縣政府政風處製作115年反賄選宣導影片「公平上場，賄選退場」，以廣泛傳遞反賄選理念，請踴躍點閱。：https://www.ida.gov.tw/ctlr?PRO=news.NewsView&id=43417&lang=0
 - 2026-10-30 ▍17國72隊頂尖對決，通訊奧斯卡圓滿落幕！：https://www.ida.gov.tw/ctlr?PRO=news.NewsView&type=Insights&id=43415
-- 2026-10-29 卓院長視察馬太鞍溪系統性治理工程 加速高規格堤防及第二道防線建置 區域河防安全再升級：https://www.wra.gov.tw/News_Content.aspx?n=6430&sms=9122&s=300505
-- 2026-10-29 115年產發署化材科計畫成果發表會 【材料創新?智慧轉型 ：引領產業升級新動能】：https://www.ida.gov.tw/ctlr?PRO=indparknews.IndparknewsView&id=29324
-- 2026-10-29 經濟部「2026 5G Summit」登場 臺美攜手打造AI原生網路 深化次世代通訊戰略合作：https://www.ida.gov.tw/ctlr?PRO=news.NewsView&id=43412
-- 2026-10-29 矽光子製程用關鍵材料推動計畫：https://www.ida.gov.tw/ctlr?PRO=project.ProjectView&id=2997
-- 2026-10-29 關鍵醫材供應鏈整備計畫：https://www.ida.gov.tw/ctlr?PRO=project.ProjectView&id=3000
-- 2026-10-29 醫材產業AI-QMS文件生成與稽核分析工具推廣說明會-台北場：https://www.ida.gov.tw/ctlr?PRO=indparknews.rwdIndparknewsView&id=29322
-- 2026-10-29 高齡科技產業跨域應用成果發表會：https://www.ida.gov.tw/ctlr?PRO=indparknews.rwdIndparknewsView&id=29327
-- 2026-10-29 醫材產業AI-QMS文件生成與稽核分析工具推廣說明會-台中場：https://www.ida.gov.tw/ctlr?PRO=indparknews.rwdIndparknewsView&id=29326
-- 2026-10-29 醫材產業AI-QMS文件生成與稽核分析工具推廣說明會-台南場：https://www.ida.gov.tw/ctlr?PRO=indparknews.rwdIndparknewsView&id=29325
-- 2026-10-29 矽半導體製程材料技術趨勢交流會議：https://www.ida.gov.tw/ctlr?PRO=indparknews.rwdIndparknewsView&id=29323
+- 2026-10-30 臺灣新創獲投觀測：2025年11-12月臺灣新創募資亮點一次看：https://findit.sme.gov.tw/tw/Res/2540
+- 2026-10-30 臺灣新創資訊平台FINDIT，募資與投資的最佳幫手生態概覽：https://findit.sme.gov.tw/tw/Dashboard
+- 2026-10-30 臺灣新創資訊平台FINDIT，募資與投資的最佳幫手：https://findit.sme.gov.tw/tw/MajorExhibitions
+- 2026-10-30 經濟部推動產業儲能補助 結合驗證機制提升安全品質：https://www.bsmi.gov.tw/wSite/ct?xItem=126313&ctNode=9898
+- 2026-10-30 加油站的加油機準不準？讓我們一「同」認識合格貼紙：https://www.bsmi.gov.tw/wSite/ct?ctNode=8155&mp=3&xItem=100066
+- 2026-10-30 【決標】115~116年度嘉義段轄內停電礙掃及點檢工作：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261030&fn=BDM-1-71317489.xml
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
