@@ -4,36 +4,36 @@
 
 - 網址：https://web8.subsidyking.tw/
 - 主題：經濟部與所屬機關新聞
-- 更新：2026-11-04（每日自動更新）
+- 更新：2026-11-05（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-11-05 TIPO新訊－智慧局推「發明人說」專欄！雷射驅鳥器友善護農，友善生態紅到日本：https://www.tipo.gov.tw/tw/tipo1/421-99888.html
+- 2026-11-05 TIPO新訊－站點停留，發明不停留！智慧局首度進駐「2026臺灣科普環島列車」活動：https://www.tipo.gov.tw/tw/tipo1/421-99885.html
+- 2026-11-05 TIPO新訊－智慧局公告「企業IP連結ESG指引」，提供企業深化智慧財產權布局與永續實踐：https://www.tipo.gov.tw/tw/tipo1/421-99886.html
+- 2026-11-05 TIPO新訊－智慧局推出新版「商標案件視覺化統計」：https://www.tipo.gov.tw/tw/tipo1/421-99887.html
+- 2026-11-05 TIPO新訊－智慧局公告「商品與服務國際(尼斯)分類第13-2027版修訂版本」，自116年1月1日生效：https://www.tipo.gov.tw/tw/tipo1/421-99884.html
 - 2026-11-04 把理想變成改變地方的力量 最高獎勵150萬元 文化部116年「青年村落文化行動」徵選開跑：https://www.sme.gov.tw/volunteer/article-vol-2696-21600
 - 2026-11-04 Q：臺南在政策資源與資金支持方面有哪些具體措施？：https://findit.sme.gov.tw/tw/Res/2680/AiQuestion/213
 - 2026-11-04 勞動部預告修正勞工請假規則：幸福加碼！勞動部挺成家，婚假升級14日：https://www.sme.gov.tw/volunteer/article-vol-2696-21676
-- 2026-11-03 【國際貿易署】開拓海外多元市場-協助廠商洽邀買主 - 中小微企業多元振興發展計畫平台：https://www.sme.gov.tw/drsme/drsme/News/news_more?id=df94da6ebce24a9ab88b039250be465c
-- 2026-11-03 掌握綠色競爭力！經濟部「永續發展專區」網站全新上線，歡迎各界踴躍點閱：https://www.wra.gov.tw/wrap/News_Content.aspx?n=26382&sms=9834&s=301903
-- 2026-11-03 公告115年度「中小微企業數位轉型計畫」申請須知- 業務消息歷史區：https://www.sme.gov.tw/article-tw-2814-14229
-- 2026-11-03 中央地方共同赴東興淨水場會勘 台水︰持續精進竹南頭份供水品質改善：https://mnscdn.moea.gov.tw/mns/populace/news/News.aspx?kind=1&menu_id=40&news_id=124441
-- 2026-11-03 行政院修正發布「溫室氣體管理基金收支保管及運用辦法」第四條 基金用途增訂專案貸款信保及利息補貼：https://www.sme.gov.tw/volunteer/article-vol-2696-21677
-- 2026-11-03 本公司新竹服務中心115.11.03~115.11.03 1300~1800進行天然氣供氣設備改善工程：https://lng-eservice.cpc.com.tw/News_Content.aspx?n=67&s=636
-- 2026-11-03 經濟部產發署力挺花蓮馬太鞍業者升級轉型 115年創意生活授證 攜手56家企業創315億體驗經濟商機：https://mnscdn.moea.gov.tw/mns/populace/news/News.aspx?kind=1&menu_id=40&news_id=124439
-- 2026-11-03 本公司竹南服務中心115.11.05 9:00~115.11.05 17:00進行天然氣供氣設備改善工程：https://lng-eservice.cpc.com.tw/News_Content.aspx?n=67&sms=9036&s=637
-- 2026-11-03 國際動態－EPO升級專利資料與分析工具，全面協助掌握技術發展趨勢：https://www.tipo.gov.tw/tw/tipo1/48-99865.html
-- 2026-11-03 國際動態－2026年歐洲設計獎，從日常需求出發，讓設計創造更多可能：https://www.tipo.gov.tw/tw/tipo1/48-99867.html
-- 2026-11-03 臺灣新創獲投觀測：2026年09-10月臺灣新創募資亮點一次看：https://findit.sme.gov.tw/tw/Res/2736
-- 2026-11-03 [Podcast] 世界電力新聞週報第224集-簡介IEA發布的「AI資料中心快速擴張的電力策略與挑戰」報告：https://www.taipower.com.tw/2289/2512/2515/2521/70741/normalPost
-- 2026-11-03 本公司苗栗服務中心115.11.05 2100~115.11.06 0100進行天然氣供氣設備改善工程：https://lng-eservice.cpc.com.tw/News_Content.aspx?n=67&s=635
-- 2026-11-03 積極回應油品需求 經濟部持續協調擴增國內產能及供需媒合 穩定市場供應秩序：https://mnscdn.moea.gov.tw/mns/populace/news/News.aspx?kind=1&menu_id=40&news_id=124438
-- 2026-11-03 關鍵時刻不斷電 「微電網」 建構在地韌性：https://www.taipower.com.tw/topic/2026_mgs/
-- 2026-11-03 智財活動通-【實體+視訊課程】台籍中國專利代理師交流聯誼茶會：https://www1.tipo.gov.tw/act/sp-activity-form-3814-cafe7-formal-5.html
-- 2026-11-03 地熱國家隊鏈結國際能量 熱啟臺灣地熱產業新局：https://mnscdn.moea.gov.tw/mns/populace/news/News.aspx?kind=1&menu_id=40&news_id=124382
-- 2026-11-03 本部訂於115年11月5日辦理「科專會議管理系統」之系統維護作業，作業期間將有間歇性服務中斷現象，不便之處，祈請見諒！：https://www.moea.gov.tw/MNS/populace/news/News.aspx?kind=2&menu_id=41&news_id=124435
-- 2026-11-03 舉辦「五大信賴產業說明會」 帶動新創企業布局前瞻技術- 新聞稿歷史區：https://www.sme.gov.tw/article-tw-2815-14306
-- 2026-11-02 告別夜間「無效巡房」的焦慮！臺南長祐老人長期照顧中心攜手維思感創，以智慧床墊織出照護防護網：https://startup.sme.gov.tw/spp/caseSample/detail/505
-- 2026-11-02 綠色及永續金融知能系列講座第12場-永續金融商品發展與資源- 活動訊息：https://www.sme.gov.tw/article-tw-2278-15267
-- 2026-11-02 TAcc+助20家深科技新創鏈結產業與資金- 新聞稿：https://www.sme.gov.tw/article-tw-2276-15279
+- 2026-11-04 114年度補捐助民間團體及個人案件申請資料公開：https://www.wra.gov.tw/wranb/cl.aspx?n=47233
+- 2026-11-04 中企署舉辦宣導說明會 助管理顧問業者強化個資及資安韌性：https://www.moea.gov.tw/MNS/populace/news/News.aspx?kind=1&menu_id=40&news_id=124474
+- 2026-11-04 經濟部標準檢驗局公布市售「遊戲地墊」檢測結果：https://www.bsmi.gov.tw/wSite/ct?ctNode=8271&mp=1&xItem=91238
+- 2026-11-04 個人資料蒐集、處理、利用告知事項：https://vipmbr.cpc.com.tw/ktso/guest/Application_Guest.aspx
+- 2026-11-04 歲末送暖傳愛心 台電關懷不間斷：https://service.taipower.com.tw/branch/d117/xmdoc/cont?xsmsid=0M242581316407137952&sid=0Q308593207358575210
+- 2026-11-04 如何向老天多要一點水？本署帶你看懂人工增雨：https://www.wra.gov.tw/News_Content.aspx?n=23604&s=295033
+- 2026-11-04 經濟部︰持續特工區監測 落實各項減污承諾 維護區域空品：https://www.moea.gov.tw/Mns/populace/news/News.aspx?kind=1&menu_id=40&news_id=124473
+- 2026-11-04 0822豪雨淹水慰助啟動,經濟部從優從速協助受災民眾及商家加速復原 補助範圍：https://www.wra.gov.tw/News_Content.aspx?n=6430&s=295199
+- 2026-11-04 大安溪伏流水營管系統建置(115-PLS-07)(第一次公開招標)：https://www.wra.gov.tw/wracb/News_Content.aspx?n=41265&sms=10263&s=301922
+- 2026-11-04 第四河川分署-最新消息-四河分署攜手環團與在地力量共同守護濁水溪環境：https://www.wra.gov.tw/wra04/News_Content.aspx?n=11068&s=301933
+- 2026-11-04 智慧局2026年產業專利分析與布局競賽成果揭曉：https://www.tipo.gov.tw/tw/tipo1/891-99687.html
+- 2026-11-04 立院審追加預算 台電：今年吸收民生用電逾750億 盼支持預算撥補：https://www.moea.gov.tw/Mns/populace/news/News.aspx?kind=1&menu_id=40&news_id=124464
+- 2026-11-04 即時說明-立院審追加預算 台電：今年吸收民生用電逾750億 盼支持預算撥補：https://www.taipower.com.tw/2289/2323/2332/70764/normalPost
+- 2026-11-04 特別預算(花蓮馬太鞍溪堰塞湖災後重建)會計月報115年10月：https://www.moea.gov.tw/mns/doa/news/News.aspx?kind=1&menu_id=3369&news_id=124465
+- 2026-11-04 運動部製發運動員法律常識手冊：https://www.bsmi.gov.tw/SafetyGIP/wSite/ct?xItem=129902&ctNode=8192&mp=3
+- 2026-11-04 【新創885園地】新創POC是什麼？一次看懂概念驗證階段、優勢與MVP差異：https://findit.sme.gov.tw/tw/Res/2738
+- 2026-11-04 【新興領域/2026.11焦點】從地面走向高空：高空通訊平臺（HAPS）崛起與臺灣產業新機遇：https://findit.sme.gov.tw/tw/Res/2739
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
