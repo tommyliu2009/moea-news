@@ -4,11 +4,19 @@
 
 - 網址：https://web8.subsidyking.tw/
 - 主題：經濟部與所屬機關新聞
-- 更新：2026-11-06（每日自動更新）
+- 更新：2026-11-07（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-11-06 資訊科技協定擴大清單降稅稅式支出評估報告：https://www.ida.gov.tw/ctlr?PRO=executive.rwdExecutiveInfoView&id=17308
+- 2026-11-06 本部訂於本(115)年11月7日10時至22時，辦理本部網路調整作業，作業期間資訊服務偶有間歇性中斷現象，不便之處，祈請見諒！：https://www.moea.gov.tw/MNS/populace/news/News.aspx?kind=2&menu_id=41&news_id=124499
+- 2026-11-06 轄管辦公廳舍116年度共同供應契約保全警衛勤務廠商遴選：https://www.wra.gov.tw/wracb/News_Content.aspx?n=41263&sms=10183&s=302082
+- 2026-11-06 11月6日至8日「集品生活遊食購」華山登場 六大成果主題串起生活日常 看見商業服務創新樣貌：https://www.moea.gov.tw/MNS/populace/news/News.aspx?kind=1&menu_id=40&news_id=124496
+- 2026-11-06 從商圈到市場 商業署以設計加值帶動地方創新：https://www.moea.gov.tw/MNS/populace/news/News.aspx?kind=1&menu_id=40&news_id=124495
+- 2026-11-06 我國產業外銷成長動能強勁 產業具國際競爭優勢 政府持續加速傳統產業及中小微企業升級：https://www.moea.gov.tw/MNS/populace/news/News.aspx?kind=1&menu_id=40&news_id=124494
+- 2026-11-06 經濟部攜手美國啟動臺美產業創新研發合作平台 加速科技產業應用 深化供應鏈關係：https://www.moea.gov.tw/Mns/doit/news/News.aspx?kind=1&menu_id=13419&news_id=124492
+- 2026-11-06 本部訂於本(115)年11月6日(五)下午7時至22時，辦理本部災害復原演練作業，作業期間本部資訊服務偶有間歇性中斷現象，不便之處，祈請見諒！：https://www.moea.gov.tw/MNS/populace/news/News.aspx?kind=2&menu_id=41&news_id=124491
 - 2026-11-05 TIPO新訊－智慧局推「發明人說」專欄！雷射驅鳥器友善護農，友善生態紅到日本：https://www.tipo.gov.tw/tw/tipo1/421-99888.html
 - 2026-11-05 TIPO新訊－站點停留，發明不停留！智慧局首度進駐「2026臺灣科普環島列車」活動：https://www.tipo.gov.tw/tw/tipo1/421-99885.html
 - 2026-11-05 TIPO新訊－智慧局公告「企業IP連結ESG指引」，提供企業深化智慧財產權布局與永續實踐：https://www.tipo.gov.tw/tw/tipo1/421-99886.html
@@ -26,14 +34,6 @@
 - 2026-11-05 台電新營區處送暖！攜手地方關懷弱勢家庭：https://service.taipower.com.tw/branch/d121/xmdoc/cont?xsmsid=0M242581317372169840&sid=0Q309331521357031236
 - 2026-11-05 A+通過現觀、藥華醫藥、鈺祥等3項計畫， 聚焦自主智慧電信、創新抗癌新藥及半導體關鍵濾材技術：https://service.moea.gov.tw/EE514/tw/aiip/50-8284.html
 - 2026-11-05 受惠AI應用需求，今年我國玻纖產業產值可望創新高：https://www.moea.gov.tw/MNS/populace/news/News.aspx?kind=1&menu_id=40&news_id=124476
-- 2026-11-05 🎉2026 FINDIT冬季媒合會｜活動花絮🎉：https://findit.sme.gov.tw/tw/Activity/Details/2357
-- 2026-11-05 標準局與消保處共同公布市售「按壓玩具（捏捏樂）」商品檢測結果：https://www.bsmi.gov.tw/SafetyGIP/wSite/ct?xItem=130264&ctNode=8321&mp=7
-- 2026-11-05 「投資臺灣三大方案」新增千億申請 日月光、台灣圓益石英擴大投資 鞏固臺灣半導體供應鏈優勢：https://www.moea.gov.tw/Mns/populace/news/News.aspx?kind=1&menu_id=40&news_id=124481
-- 2026-11-05 為住宅與小商家用戶緩衝 台電吸收750億民生用電成本 盼獲預算補貼：https://www.moea.gov.tw/MNS/populace/news/News.aspx?kind=1&menu_id=40&news_id=124479
-- 2026-11-05 即時說明-為住宅與小商家用戶緩衝台電吸收750億民生用電成本盼獲預算補貼：https://www.taipower.com.tw/2289/2323/2332/70782/normalPost
-- 2026-11-05 持續推動三接生態保育 兼顧能源安全與環境永續：https://www.cpc.com.tw/News_Content.aspx?n=28&s=112981
-- 2026-11-05 ▍臺荷強強聯手！搶攻次世代矽光子商機：https://www.ida.gov.tw/ctlr?PRO=news.NewsView&type=Insights&id=43423
-- 2026-11-05 台灣中油:持續推動三接生態保育 兼顧能源安全與環境永續：https://www.moea.gov.tw/Mns/populace/news/News.aspx?kind=1&menu_id=40&news_id=124475
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
