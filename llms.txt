@@ -4,11 +4,18 @@
 
 - 網址：https://web8.subsidyking.tw/
 - 主題：經濟部與所屬機關新聞
-- 更新：2026-11-08（每日自動更新）
+- 更新：2026-11-09（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-11-09 116年度「文書檔案採購及行政作業委託勞務計畫」：https://www.sme.gov.tw/article-tw-2277-15311
+- 2026-11-08 枯水季尚未結束 持續強化調度水源節水管理：https://www.wra.gov.tw/NewsAll_Content.aspx?n=6272&sms=9122&s=290460
+- 2026-11-08 頭前溪川流水偏低且農業春耕用水量大 為提醒節水調整新竹地區水情燈號：https://www.wra.gov.tw/NewsAll_Content.aspx?n=6272&sms=9122&s=287825
+- 2026-11-08 審慎因應枯水期用水，臺中調整為水情提醒綠燈，新竹維持減壓供水黃燈：https://www.wra.gov.tw/NewsAll_Content.aspx?n=6272&sms=9122&s=289766
+- 2026-11-08 公布欄歷史區- 最新消息與活動：https://www.moeaea.gov.tw/ecw/populace/news/Board.aspx?kind=3&menu_id=57&news_id=34626
+- 2026-11-08 兒童新樂園變身節能大舞台！小劇場創作決賽圓滿成功 從關燈到選一級家電～能源署攜手親子邁向 2050 淨零排放：https://www.moea.gov.tw/MNS/populace/news/News.aspx?kind=1&menu_id=40&news_id=124503
+- 2026-11-08 「屏北地區穩定供水改善（第一階段）工程計畫」初審會議：https://www.wra.gov.tw/News_Content.aspx?n=23604&s=295026
 - 2026-11-07 課程教學 - 中小企業減碳服務站 [課程] 9/22(二) 「空壓系統節能診斷與效益評估實務班」：https://www.sme.gov.tw/caas/article-caas-3045-21466
 - 2026-11-07 平穩物價 照顧民生 中油吸收汽、柴油各8.0元 11/9-11/15汽、柴油價格維持不調整：https://www.moea.gov.tw/Mns/populace/news/News.aspx?kind=1&menu_id=40&news_id=124502
 - 2026-11-07 總統盃無人機競賽初賽嘉義登場 三大任務驗證應用實力 以賽育才厚植非紅供應鏈：https://www.moea.gov.tw/MNS/populace/news/News.aspx?kind=1&menu_id=40&news_id=124501
@@ -16,6 +23,7 @@
 - 2026-11-07 SBIR計畫推廣說明會- 活動訊息：https://www.sme.gov.tw/article-tw-2278-15295
 - 2026-11-07 強化充電樁管理制度 打造安全準確充電環境：https://www.bsmi.gov.tw/bsmiGIP/wSite/ct?xItem=129302&ctNode=8321&mp=58
 - 2026-11-07 面對豪雨與乾旱雙重挑戰 經濟部持續穩健供水抗旱 盼總預算儘速通過：https://www.wra.gov.tw/News_Content.aspx?n=23604&s=295027
+- 2026-11-07 連假春遊選好物經濟部邀您遊城鄉逛好店- 新聞稿歷史區：https://www.sme.gov.tw/article-tw-2815-14426
 - 2026-11-06 資訊科技協定擴大清單降稅稅式支出評估報告：https://www.ida.gov.tw/ctlr?PRO=executive.rwdExecutiveInfoView&id=17308
 - 2026-11-06 本部訂於本(115)年11月7日10時至22時，辦理本部網路調整作業，作業期間資訊服務偶有間歇性中斷現象，不便之處，祈請見諒！：https://www.moea.gov.tw/MNS/populace/news/News.aspx?kind=2&menu_id=41&news_id=124499
 - 2026-11-06 轄管辦公廳舍116年度共同供應契約保全警衛勤務廠商遴選：https://www.wra.gov.tw/wracb/News_Content.aspx?n=41263&sms=10183&s=302082
@@ -26,14 +34,6 @@
 - 2026-11-06 本部訂於本(115)年11月6日(五)下午7時至22時，辦理本部災害復原演練作業，作業期間本部資訊服務偶有間歇性中斷現象，不便之處，祈請見諒！：https://www.moea.gov.tw/MNS/populace/news/News.aspx?kind=2&menu_id=41&news_id=124491
 - 2026-11-06 資訊安全政策與說明：https://kaohsiung.bsmi.gov.tw/wSite/ct?xItem=125889&ctNode=8536&mp=111
 - 2026-11-06 前瞻基礎建設計畫-水環境建設行政透明專屬網站-影音專區-宜蘭河永金一號橋下游段河川環境改善工程：https://www.wra.gov.tw/flwe/News_Video_Content.aspx?n=8285&s=88894&attyear=107%E5%B9%B4
-- 2026-11-06 荖濃溪伏流水工程竣工 為珍珠串再串上一顆明珠 增供水源強化大南方新矽谷供水靈活韌性：https://www.wra.gov.tw/News_Content.aspx?n=6430&s=300048
-- 2026-11-06 研訓活動- 縣市中小企業榮譽指導員(企業服務志工)網 (11/13大發兼鳳山場)SBIR計畫推廣說明會：https://www.sme.gov.tw/volunteer/article-vol-2695-21985
-- 2026-11-06 【創業園地專欄-陳駿憲】創業停看聽：你的想法，他的建議和我的前車之鑑：https://findit.sme.gov.tw/tw/Res/2746
-- 2026-11-06 問：有關服飾或織品含有石墨烯成分之標示方式？：https://www.bsmi.gov.tw/bsmiGIP/wSite/ct?ctNode=8144&mp=3&xItem=109236
-- 2026-11-06 115年計量技術人員第一梯次考試 自3月16日起開放報名：https://kaohsiung.bsmi.gov.tw/wSite/ct?xItem=126288&ctNode=8946&mp=111
-- 2026-11-05 TIPO新訊－智慧局推「發明人說」專欄！雷射驅鳥器友善護農，友善生態紅到日本：https://www.tipo.gov.tw/tw/tipo1/421-99888.html
-- 2026-11-05 TIPO新訊－站點停留，發明不停留！智慧局首度進駐「2026臺灣科普環島列車」活動：https://www.tipo.gov.tw/tw/tipo1/421-99885.html
-- 2026-11-05 TIPO新訊－智慧局公告「企業IP連結ESG指引」，提供企業深化智慧財產權布局與永續實踐：https://www.tipo.gov.tw/tw/tipo1/421-99886.html
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
