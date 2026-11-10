@@ -4,36 +4,36 @@
 
 - 網址：https://web8.subsidyking.tw/
 - 主題：經濟部與所屬機關新聞
-- 更新：2026-11-10（每日自動更新）
+- 更新：2026-11-11（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-11-10 【創業補給站】微型創業鳳凰貸款怎麼申請？資格、額度與利息補貼總整理：https://startup.sme.gov.tw/home/modules/infopack/detail/?sId=156
+- 2026-11-10 公告「115年度鳳山溪下寮二號堤防及枋寮堤防構造物維修改善工程」民眾參與及生態檢核會議：https://www.wra.gov.tw/wra02/cp.aspx?n=47384
+- 2026-11-10 公告「115年度新竹市港南海堤構造物維修改善工程」民眾參與及生態檢核會議：https://www.wra.gov.tw/wra02/cp.aspx?n=47383
+- 2026-11-10 落實三接環評承諾並精進生態保育措施：https://www.cpc.com.tw/News_Content.aspx?n=28&sms=8920&s=112987
+- 2026-11-10 台灣中油：落實三接環評承諾並精進生態保育措施：https://www.moea.gov.tw/MNS/populace/news/News.aspx?kind=1&menu_id=40&news_id=124530
+- 2026-11-10 總統府潘秘書長親臨頒獎 嘉勉「第35屆國家磐石獎」及 「第28屆海外臺商磐石獎」得主：https://www.moea.gov.tw/Mns/populace/news/News.aspx?kind=1&menu_id=40&news_id=124529
+- 2026-11-10 公告修正「應施檢驗電源供應設備類之電動機車用非車載型充電器等商品之相關檢驗規定」：https://www.bsmi.gov.tw/wSite/ct?xItem=130506&ctNode=8322&mp=111
+- 2026-11-10 「2026全國卓越商圈獎」20處特色商圈脫穎而出 樹立卓越典範展現臺灣商圈魅力：https://www.moea.gov.tw/MNS/populace/news/News.aspx?kind=1&menu_id=40&news_id=124528
+- 2026-11-10 招標公告: 115及116年度石岡壩蓄水範圍清淤挖採作業計畫-保全派遣採購：https://www.wra.gov.tw/wracb/News_Content.aspx?n=41263&sms=10183&s=302268
+- 2026-11-10 公告「115年度南庄溪下員林及南庄堤防構造物維修改善工程」規劃設計階段民眾參與及生態檢核現勘會議：https://www.wra.gov.tw/wra02/cp.aspx?n=47381
+- 2026-11-10 【新創園地專欄-吳德威】臺灣新創的難題不是市場太小，而是「不願付費」：https://findit.sme.gov.tw/tw/Res/2750
+- 2026-11-10 甄試簡章與試題-歷年新進職員試題解答：https://www.taipower.com.tw/2289/2544/2554/2556/simpleList?Page=53&PageSize=10
+- 2026-11-10 智慧局推「再審查加速審查(AEPRe)」與「延緩實體審查」助企業因應市場變化靈活專利布局：https://www.tipo.gov.tw/tw/tipo1/891-99899.html
+- 2026-11-10 寶二20載，共創新未來：https://www.wra.gov.tw/wranb/News_Content.aspx?n=36753&sms=10128&s=302231
+- 2026-11-10 公告「115年度頭前溪竹東堤防構造物維修改善工程」規劃設計階段民眾參與及生態檢核會議：https://www.wra.gov.tw/wra02/cp.aspx?n=47379
+- 2026-11-10 公告「115年度頭前溪芎林堤防構造物維修改善工程」民眾參與及生態檢核會議：https://www.wra.gov.tw/wra02/cp.aspx?n=47377
+- 2026-11-10 修正原產地為外國之鋼鐵產品（如附件1）輸往歐盟，出口人應檢附台灣鋼鐵工業同業公會（下稱鋼鐵公會）簽發之加工證明書向海關報運出口規定，並自即日生效。：https://www.moea.gov.tw/Mns/populace/news/News.aspx?kind=2&menu_id=41&news_id=124525
+- 2026-11-10 修正「自由貿易港區事業輸往國外應經核准之貨品」，輸往歐盟之鋼鐵貨品（如附件1）應先經本部核准，並自即日生效。：https://www.moea.gov.tw/Mns/populace/news/News.aspx?kind=2&menu_id=41&news_id=124526
+- 2026-11-10 修正「限制輸出貨品表」，我國產製之鋼鐵產品（如附件1）輸往歐盟採行管理措施（輸出規定代號為132），並自即日生效。：https://www.moea.gov.tw/Mns/populace/news/News.aspx?kind=2&menu_id=41&news_id=124527
+- 2026-11-10 抽油煙機使用安全提醒：https://www.bsmi.gov.tw/bsmiGIP/wSite/ct?ctNode=7804&mp=7&xItem=85508
 - 2026-11-09 116年度「文書檔案採購及行政作業委託勞務計畫」：https://www.sme.gov.tw/article-tw-2277-15311
 - 2026-11-09 即時說明-台電盼各界支持預算撥補 助台電平穩電價推動各項電力建設：https://www.taipower.com.tw/2289/2323/2332/70840/normalPost
 - 2026-11-09 台電盼各界支持預算撥補 助台電平穩電價 推動各項電力建設：https://www.moea.gov.tw/Mns/populace/news/News.aspx?kind=1&menu_id=40&news_id=124521
 - 2026-11-09 2026中小企業四大獎頒獎典禮 74家卓越企業獲表揚：https://www.moea.gov.tw/Mns/populace/news/News.aspx?kind=1&menu_id=40&news_id=124520
 - 2026-11-09 【近期活動】【跨計畫查詢服務平台】11/26（四）嘉義場｜打造AI行銷戰隊建立品牌核心，從組建AI行銷戰隊開始：https://startup.sme.gov.tw/home/modules/calendar/detail/index.php?sId=8500
-- 2026-11-09 116年度鯉魚潭水庫及石岡壩監測分析及安全檢查(116-LMC-05)(第一次限制性招標)：https://www.wra.gov.tw/wracb/News_Content.aspx?n=41265&sms=10263&s=302080
-- 2026-11-09 創業新聞雙週報 VOL. 05 | 10.27 - 11.08：https://startup.sme.gov.tw/home/modules/news/detial.php?sId=2270
-- 2026-11-09 課程教學 - 中小企業減碳服務站 共創驅動 · 循環新局｜中小企業循環共創計畫成果發表會：https://www.sme.gov.tw/caas/article-caas-3045-22001
-- 2026-11-09 新聞與公告- 中華民國經濟部(Ministry of Economic Affairs,R.O.C.)全球資訊網：https://www.moea.gov.tw/MNS/populace/news/News.aspx?kind=1&menu_id=40&news_id=124518
-- 2026-11-09 中企署偕15家新創企業前進新加坡搶攻東協市場商機- 新聞稿：https://www.sme.gov.tw/article-tw-2276-15314
-- 2026-11-09 【新創園地專欄-陳全正】當個資外洩鬧上法院，法院看的是您事前做了什麼準備？：https://findit.sme.gov.tw/tw/Res/2747
-- 2026-11-09 台糖尖山埤、東海豐園區雙獲環教績優獎肯定：https://www.moea.gov.tw/Mns/populace/news/News.aspx?kind=1&menu_id=40&news_id=124511
-- 2026-11-09 經濟特別收入基金會計月報115年10月：https://www.moea.gov.tw/Mns/doa/news/News.aspx?kind=1&menu_id=3369&news_id=124512
-- 2026-11-09 經濟部首度在米蘭EICMA展設置旗艦臺灣館 展現臺灣機車產業實力 搶攻國際商機：https://www.moea.gov.tw/MNS/populace/news/News.aspx?kind=1&menu_id=40&news_id=124506
-- 2026-11-09 智財活動通-【實體】AI相關著作權的新近國內外實務發展班：https://www1.tipo.gov.tw/act/sp-activity-form-3815-cbb66-formal-5.html
-- 2026-11-09 桃竹三大水庫滿庫蓄水，安心迎接枯水期！：https://www.wra.gov.tw/wranb/News_Content.aspx?n=36753&sms=10128&s=302137
-- 2026-11-09 國際資訊 波浪潛能地圖 - 海洋能發電諮詢窗口：https://ea01.moeaea.gov.tw/d0311/Technology/more?id=4c1c773816e144fca67e3f6e31f263c0
-- 2026-11-09 台電2027僱員甄試招募583名新血簡章預定12/23公告：https://www.taipower.com.tw/2289/2323/2324/70832/
-- 2026-11-09 業務快訊-本公司興達發電廠辦理「災防告警細胞廣播服務訊息演練」，相關演練日期時間如下：https://www.taipower.com.tw/2289/2323/2337/70614/normalPost
-- 2026-11-09 社會創新平台 | Social Innovation：https://startup.sme.gov.tw/sitaiwan/Home/citizensSay/view/4366
-- 2026-11-08 枯水季尚未結束 持續強化調度水源節水管理：https://www.wra.gov.tw/NewsAll_Content.aspx?n=6272&sms=9122&s=290460
-- 2026-11-08 頭前溪川流水偏低且農業春耕用水量大 為提醒節水調整新竹地區水情燈號：https://www.wra.gov.tw/NewsAll_Content.aspx?n=6272&sms=9122&s=287825
-- 2026-11-08 審慎因應枯水期用水，臺中調整為水情提醒綠燈，新竹維持減壓供水黃燈：https://www.wra.gov.tw/NewsAll_Content.aspx?n=6272&sms=9122&s=289766
-- 2026-11-08 公布欄歷史區- 最新消息與活動：https://www.moeaea.gov.tw/ecw/populace/news/Board.aspx?kind=3&menu_id=57&news_id=34626
-- 2026-11-08 兒童新樂園變身節能大舞台！小劇場創作決賽圓滿成功 從關燈到選一級家電～能源署攜手親子邁向 2050 淨零排放：https://www.moea.gov.tw/MNS/populace/news/News.aspx?kind=1&menu_id=40&news_id=124503
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
