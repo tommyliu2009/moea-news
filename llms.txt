@@ -4,38 +4,39 @@
 
 - 網址：https://web8.subsidyking.tw/
 - 主題：經濟部與所屬機關新聞
-- 更新：2026-11-12（每日自動更新）
+- 更新：2026-11-13（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-11-13 2026乘夢來FUNd：北醫杏青康輔社會醫療藝術：https://startup.sme.gov.tw/sitaiwan/Home/Raise/View/483
 - 2026-11-12 【經濟部標準檢驗局「標檢學堂大冒險」即將在國立科學工藝博物大廳開展：https://www.bsmi.gov.tw/wSite/ct?xItem=130512&ctNode=8324&mp=111
-- 2026-11-11 經濟部標準檢驗局與財團法人中華民國消費者文教基金會共同公布市售「棉被烘乾機」檢測結果：https://www.bsmi.gov.tw/wSite/ct?ctNode=9290&mp=1&xItem=91241
-- 2026-11-11 鼓勵中小企業增僱青年及高齡從業人員可申報營利事業租稅優惠- 新聞稿歷史區：https://www.sme.gov.tw/article-tw-2815-14312
-- 2026-11-11 珍珠串調度發揮效益 政府全民攜手做好枯水期供水準備：https://www.wra.gov.tw/News_Content.aspx?n=6431&sms=9122&s=302303
-- 2026-11-11 智財活動通-【實體+視訊課程】從生成到自主：專利與法律服務的AI 實踐路徑、跨界落地案例與避雷指南：https://www1.tipo.gov.tw/act/sp-activity-form-3821-a732a-formal-5.html
-- 2026-11-11 智財活動通-【實體+視訊課程】專利師可具備的 AI 素養、證照策略與職涯綜效：https://www1.tipo.gov.tw/act/sp-activity-form-3820-4923a-formal-5.html
-- 2026-11-11 公告「116 年南庄溪斷面 58-1~61 河段疏濬工程兼供土石採售分離作業」民眾參與及生態檢核會議：https://www.wra.gov.tw/wra02/cp.aspx?n=47386
-- 2026-11-11 走過80載締造經濟奇蹟！第80屆工業節慶祝大會盛大登場 經濟部助攻百工百業迎向AI新紀元：https://www.moea.gov.tw/Mns/populace/news/News.aspx?kind=1&menu_id=40&news_id=124537
-- 2026-11-11 2026商業新動能趨勢論壇 聚焦數位應用與顧客經營 探索商業成長新動能：https://www.moea.gov.tw/MNS/populace/news/News.aspx?kind=1&menu_id=40&news_id=124541
-- 2026-11-11 標準檢驗局與財團法人消費者文教基金會共同公布市售「成人紙尿褲」檢驗結果：https://www.bsmi.gov.tw/wSite/ct?ctNode=8271&mp=1&xItem=62739
-- 2026-11-11 成功案例及商品化新知－一鍵變身助行＋騎乘智慧輔具緯創花5年把智世代變形電動車磨成金牌發明：https://www.tipo.gov.tw/tw/tipo1/788-99374.html
-- 2026-11-11 特別預算(丹娜絲颱風及七二八豪雨災後復原重建)會計月報115年10月：https://www.moea.gov.tw/Mns/doa/news/News.aspx?kind=1&menu_id=3369&news_id=124534
-- 2026-11-11 116年度活絡商圈補助計畫申請須知：https://www.moea.gov.tw/Mns/populace/news/News.aspx?kind=2&menu_id=41&news_id=124532
-- 2026-11-11 職場性別平權：企業性騷防治講座一站式賦能計劃：https://startup.sme.gov.tw/sitaiwan/Home/Raise/View/499
-- 2026-11-11 本公司竹南服務中心115.11.14 13:00~115.11.14 21:00進行天然氣供氣設備改善工程：https://lng-eservice.cpc.com.tw/News_Content.aspx?n=67&sms=9036&s=646
-- 2026-11-11 專利申請更便利臺美啟動電子交換系統提升企業跨國布局效率：https://www.tipo.gov.tw/tw/tipo1/891-93619.html?fbclid=IwcGRvZgFleHRuA2FlbQIxMABicmlkETFpbXBjMVk0ZzhhTW4yaG5Sc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHtvIBR-Y_3dzx2OmTl3RUsdREIcMQ2D1VqwpzdFqU6zVav7mR5DHDi0rXQFJ_aem_OIUUlWfPcR_anQ5mPlPosg
-- 2026-11-11 【決標】燃煤海運南非煤計1船次現貨傭船：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261111&fn=BDM-1-71327316.xml
-- 2026-11-11 【決標】115年寶來、六龜供水系統委外操作承攬、115年美濃所第2工作區委外抄表及水費催收工作(併案發包)(後續擴充)：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261111&fn=BDM-1-71327330.xml
-- 2026-11-11 【決標】115 年萬大電廠單身宿舍冷氣安裝勞務採購工作：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261111&fn=BDM-1-71327364.xml
-- 2026-11-11 【決標】儀用傳送器乙批：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261111&fn=BDM-1-71327388.xml
-- 2026-11-11 【決標】115年度油罐車駕駛員眷交通安全宣導日活動餐會：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261111&fn=BDM-1-71327444.xml
-- 2026-11-11 【決標】紫外光及可見光分光光譜儀1台：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261111&fn=BDM-1-71327459.xml
-- 2026-11-11 【決標】潤滑油添加劑CA318,CA335,CA271一批：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261111&fn=BDM-1-71327519.xml
-- 2026-11-11 【決標】115-116年靜電集塵器及附屬設備維護工作：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261111&fn=BDM-1-71327572.xml
-- 2026-11-11 【決標】116年度高雄臨海產業園區數位監控租賃計畫採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261111&fn=BDM-1-71327656.xml
+- 2026-11-12 【創業補給站】兼職創業也能申請補助嗎？微型創業的資金管道盤點：https://startup.sme.gov.tw/home/modules/infopack/detail/?sId=159
+- 2026-11-12 為成長「蓄電」加油!台電南投區處暖捐助早療協會：https://service.taipower.com.tw/branch/d118/xmdoc/cont?xsmsid=0M242581313194442849&sid=0Q316583606566821653&sq=
+- 2026-11-12 企業實習機會媒合：https://startup.sme.gov.tw/sitaiwan/Home/match/20261111153038728
+- 2026-11-12 大學生偏鄉營隊招募：https://startup.sme.gov.tw/sitaiwan/Home/match/20261111150114099
+- 2026-11-12 本部訂於本(115)年11月13日(五)下午6時至11時，辦理本部台中資料中心設備維護作業，作業期間本部資訊服務偶有間歇性中斷現象，不便之處，祈請見諒！：https://www.moea.gov.tw/Mns/populace/news/News.aspx?kind=2&menu_id=41&news_id=124555
+- 2026-11-12 【報名開跑】Buying Power 十周年論壇暨永續採購展社會創新平台| Social Innovation - 最新消息：https://startup.sme.gov.tw/sitaiwan/Home/News?Fid=1429
+- 2026-11-12 五度獲獎、連十年獲認證 台電奪「運動企業認證」及「金質榮譽企業」雙榮譽：https://www.moea.gov.tw/MNS/populace/news/News.aspx?kind=1&menu_id=40&news_id=124553
+- 2026-11-12 即時說明-空污法修法強推2028中火燃煤全關台電：個案修法憂超出電網負荷：https://www.taipower.com.tw/2289/2323/2332/70929/normalPost
+- 2026-11-12 召開「高雄展覽館增建、改建、修建營運移轉（ROT）案」公聽會：https://www.moea.gov.tw/Mns/populace/news/News.aspx?kind=2&menu_id=41&news_id=124554
+- 2026-11-12 公務預算會計月報115年10月：https://www.moea.gov.tw/Mns/doa/news/News.aspx?kind=1&menu_id=3369&news_id=124551
+- 2026-11-12 水利署8項成果獲工程會金質獎肯定 展現水利建設優良品質與永續作為：https://www.wra.gov.tw/News_Content.aspx?n=6430&sms=9122&s=302334
+- 2026-11-12 本部訂於115年11月12日辦理「補助計畫管理共通平台」系統維護作業，作業期間將有間歇性服務中斷現象，不便之處，祈請見諒！：https://www.moea.gov.tw/Mns/populace/news/News.aspx?kind=2&menu_id=41&news_id=124548
+- 2026-11-12 經濟部智慧財產局國際及法律事務室擬徵電機工程職系技佐1名：https://www.moea.gov.tw/Mns/populace/news/News.aspx?kind=5&menu_id=44&news_id=124545
+- 2026-11-12 召開「台北南港展覽館1館增建、改建、修建營運移轉（ROT）案」公聽會：https://www.moea.gov.tw/Mns/populace/news/News.aspx?kind=2&menu_id=41&news_id=124547
+- 2026-11-12 信義辦公大樓清潔服務工作| 招標公告：https://www.ida.gov.tw/ctlr?PRO=bid.BidView&id=17197&lang=0
+- 2026-11-12 電廠除役已有既定排程 經濟部呼籲空污法修正案勿貿然提前衝擊供電穩定：https://www.moea.gov.tw/MNS/populace/news/News.aspx?kind=1&menu_id=40&news_id=124539
+- 2026-11-12 電子資訊國際大廠對臺採購首破3,000億美元 AI算力推升外銷強勁動能 經濟部全方位助攻傳產升級：https://www.moea.gov.tw/MNS/populace/news/News.aspx?kind=1&menu_id=40&news_id=124543
+- 2026-11-12 標準局與消基會共同公布市售「快煮壺」商品檢測結果：https://www.bsmi.gov.tw/wSite/ct?ctNode=8321&mp=1&xItem=126184
+- 2026-11-12 【決標】116年度荖濃溪堤防維護管理工作(開口契約)：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261112&fn=BDM-1-71328873.xml
+- 2026-11-12 【決標】2026年奧瑞油田道路及至Moundou機場之聯外道路整修工程案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261112&fn=BDM-1-71328944.xml
+- 2026-11-12 【決標】機組大修定子及轉子清潔整理工作：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261112&fn=BDM-1-71329057.xml
+- 2026-11-12 【決標】抽蓄大樓裝(整)修工作(第二次契約變更新增工項)：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261112&fn=BDM-1-71329074.xml
+- 2026-11-12 【決標】115年度變電所、服務所及器材放置場等保全服務：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261112&fn=BDM-1-71329114.xml
 
 ## 相關網站
+- 補助王：https://www.subsidyking.tw/
 - 研發補助王：https://web20.subsidyking.tw/
 - 標案王：https://www.bidking.tw/
 - 節能補助王：https://web7.subsidyking.tw/
