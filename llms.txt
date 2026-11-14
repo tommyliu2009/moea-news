@@ -4,11 +4,17 @@
 
 - 網址：https://web8.subsidyking.tw/
 - 主題：經濟部與所屬機關新聞
-- 更新：2026-11-14（每日自動更新）
+- 更新：2026-11-15（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-11-14 平穩物價 照顧民生 中油汽、柴油吸收6.0元及5.8元 11/16-11/22汽、柴油價格維持不調整：https://www.cpc.com.tw/News_Content.aspx?n=28&s=113010
+- 2026-11-14 AI與數位轉型課程平台：https://smelearning.sme.gov.tw/class_all.php?page=6&keyword=%E8%A1%8C%E9%8A%B7&tag=1&price_sort=0
+- 2026-11-14 核電不是振興經濟的萬靈丹 核能議題應回歸法治、科學與專業：https://www.moea.gov.tw/MNS/populace/news/News.aspx?kind=1&menu_id=40&news_id=124566
+- 2026-11-14 Greens Plus－黑水計畫：https://opendata.wra.gov.tw/worktogether/5
+- 2026-11-14 2026台灣國際遊艇展盛大開幕 78艘船艇齊聚高雄 展現臺灣遊艇產業國際實力：https://www.moea.gov.tw/MNS/populace/news/News.aspx?kind=1&menu_id=40&news_id=124564
+- 2026-11-14 社會創新平台| Social Innovation - 政府資源：https://startup.sme.gov.tw/sitaiwan/Home/Govproject/171
 - 2026-11-13 2026乘夢來FUNd：北醫杏青康輔社會醫療藝術：https://startup.sme.gov.tw/sitaiwan/Home/Raise/View/483
 - 2026-11-13 本署將於11月16日(一)上午08時00分至18時00分暫停本署AI智能服務台網站服務，造成不便，敬請見諒。：https://www.wra.gov.tw/wra05/News_Content.aspx?n=11460&s=302389
 - 2026-11-13 產業服務電子報第 523 期：https://www.ida.gov.tw/ctlr?PRO=epaper.rwdEpaperView&id=7290
@@ -24,16 +30,10 @@
 - 2026-11-13 中企署偕15家新創企業前進新加坡 搶攻東協市場商機：https://startup.sme.gov.tw/home/modules/news/detial.php?sId=2274
 - 2026-11-13 綠色及永續金融知能系列講座 第13場 - 議題：能源管理與減碳實務：https://www.moea.gov.tw/Mns/populace/news/NewsActive.aspx?kind=4&menu_id=43&news_id=124556
 - 2026-11-13 安心使用除濕機 你不可不知：https://www.bsmi.gov.tw/bsmiGIP/wSite/ct?ctNode=8155&mp=3&xItem=119038
+- 2026-11-13 訂定「經濟部產業發展署辦理公務小客車車載遠端網路控制器國產認定作業要點」，並自即日生效。：https://www.ida.gov.tw/ctlr?PRO=news.NewsView&id=43438&type=eBulletin
+- 2026-11-13 綠色及永續金融知能系列講座第13場 - 議題：能源管理與減碳實務- 活動訊息：https://www.sme.gov.tw/article-tw-2278-15332
 - 2026-11-12 【經濟部標準檢驗局「標檢學堂大冒險」即將在國立科學工藝博物大廳開展：https://www.bsmi.gov.tw/wSite/ct?xItem=130512&ctNode=8324&mp=111
 - 2026-11-12 【創業補給站】兼職創業也能申請補助嗎？微型創業的資金管道盤點：https://startup.sme.gov.tw/home/modules/infopack/detail/?sId=159
-- 2026-11-12 為成長「蓄電」加油!台電南投區處暖捐助早療協會：https://service.taipower.com.tw/branch/d118/xmdoc/cont?xsmsid=0M242581313194442849&sid=0Q316583606566821653&sq=
-- 2026-11-12 企業實習機會媒合：https://startup.sme.gov.tw/sitaiwan/Home/match/20261111153038728
-- 2026-11-12 大學生偏鄉營隊招募：https://startup.sme.gov.tw/sitaiwan/Home/match/20261111150114099
-- 2026-11-12 本部訂於本(115)年11月13日(五)下午6時至11時，辦理本部台中資料中心設備維護作業，作業期間本部資訊服務偶有間歇性中斷現象，不便之處，祈請見諒！：https://www.moea.gov.tw/Mns/populace/news/News.aspx?kind=2&menu_id=41&news_id=124555
-- 2026-11-12 【報名開跑】Buying Power 十周年論壇暨永續採購展社會創新平台| Social Innovation - 最新消息：https://startup.sme.gov.tw/sitaiwan/Home/News?Fid=1429
-- 2026-11-12 五度獲獎、連十年獲認證 台電奪「運動企業認證」及「金質榮譽企業」雙榮譽：https://www.moea.gov.tw/MNS/populace/news/News.aspx?kind=1&menu_id=40&news_id=124553
-- 2026-11-12 即時說明-空污法修法強推2028中火燃煤全關台電：個案修法憂超出電網負荷：https://www.taipower.com.tw/2289/2323/2332/70929/normalPost
-- 2026-11-12 召開「高雄展覽館增建、改建、修建營運移轉（ROT）案」公聽會：https://www.moea.gov.tw/Mns/populace/news/News.aspx?kind=2&menu_id=41&news_id=124554
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
