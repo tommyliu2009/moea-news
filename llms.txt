@@ -4,17 +4,21 @@
 
 - 網址：https://web8.subsidyking.tw/
 - 主題：經濟部與所屬機關新聞
-- 更新：2026-11-15（每日自動更新）
+- 更新：2026-11-16（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-11-15 【臺北水源特定區豐富植物生態🌿】- 水豬母乳：https://web.wra.gov.tw/welfare/News_Content.aspx?n=8938&s=75037
 - 2026-11-14 平穩物價 照顧民生 中油汽、柴油吸收6.0元及5.8元 11/16-11/22汽、柴油價格維持不調整：https://www.cpc.com.tw/News_Content.aspx?n=28&s=113010
 - 2026-11-14 AI與數位轉型課程平台：https://smelearning.sme.gov.tw/class_all.php?page=6&keyword=%E8%A1%8C%E9%8A%B7&tag=1&price_sort=0
 - 2026-11-14 核電不是振興經濟的萬靈丹 核能議題應回歸法治、科學與專業：https://www.moea.gov.tw/MNS/populace/news/News.aspx?kind=1&menu_id=40&news_id=124566
 - 2026-11-14 Greens Plus－黑水計畫：https://opendata.wra.gov.tw/worktogether/5
 - 2026-11-14 2026台灣國際遊艇展盛大開幕 78艘船艇齊聚高雄 展現臺灣遊艇產業國際實力：https://www.moea.gov.tw/MNS/populace/news/News.aspx?kind=1&menu_id=40&news_id=124564
 - 2026-11-14 社會創新平台| Social Innovation - 政府資源：https://startup.sme.gov.tw/sitaiwan/Home/Govproject/171
+- 2026-11-14 成功案例及商品化新知－鼻胃管照護痛點催生金牌發明阿爾傑科技讓小醫材創新走向國際：https://www.tipo.gov.tw/tw/tipo1/788-99933.html
+- 2026-11-14 成功案例及商品化新知－中山大學以矽光子晶片降低陀螺儀成本不靠GPS也能精準導航：https://www.tipo.gov.tw/tw/tipo1/788-99895.html
+- 2026-11-14 115年11月石門水庫街頭藝人展演場地名單：https://web.wra.gov.tw/shihmen/News_Content.aspx?n=8633&sms=12930&s=75101
 - 2026-11-13 2026乘夢來FUNd：北醫杏青康輔社會醫療藝術：https://startup.sme.gov.tw/sitaiwan/Home/Raise/View/483
 - 2026-11-13 本署將於11月16日(一)上午08時00分至18時00分暫停本署AI智能服務台網站服務，造成不便，敬請見諒。：https://www.wra.gov.tw/wra05/News_Content.aspx?n=11460&s=302389
 - 2026-11-13 產業服務電子報第 523 期：https://www.ida.gov.tw/ctlr?PRO=epaper.rwdEpaperView&id=7290
@@ -30,10 +34,6 @@
 - 2026-11-13 中企署偕15家新創企業前進新加坡 搶攻東協市場商機：https://startup.sme.gov.tw/home/modules/news/detial.php?sId=2274
 - 2026-11-13 綠色及永續金融知能系列講座 第13場 - 議題：能源管理與減碳實務：https://www.moea.gov.tw/Mns/populace/news/NewsActive.aspx?kind=4&menu_id=43&news_id=124556
 - 2026-11-13 安心使用除濕機 你不可不知：https://www.bsmi.gov.tw/bsmiGIP/wSite/ct?ctNode=8155&mp=3&xItem=119038
-- 2026-11-13 訂定「經濟部產業發展署辦理公務小客車車載遠端網路控制器國產認定作業要點」，並自即日生效。：https://www.ida.gov.tw/ctlr?PRO=news.NewsView&id=43438&type=eBulletin
-- 2026-11-13 綠色及永續金融知能系列講座第13場 - 議題：能源管理與減碳實務- 活動訊息：https://www.sme.gov.tw/article-tw-2278-15332
-- 2026-11-12 【經濟部標準檢驗局「標檢學堂大冒險」即將在國立科學工藝博物大廳開展：https://www.bsmi.gov.tw/wSite/ct?xItem=130512&ctNode=8324&mp=111
-- 2026-11-12 【創業補給站】兼職創業也能申請補助嗎？微型創業的資金管道盤點：https://startup.sme.gov.tw/home/modules/infopack/detail/?sId=159
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
