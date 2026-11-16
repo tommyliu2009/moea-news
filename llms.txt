@@ -4,36 +4,36 @@
 
 - 網址：https://web8.subsidyking.tw/
 - 主題：經濟部與所屬機關新聞
-- 更新：2026-11-16（每日自動更新）
+- 更新：2026-11-17（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
-- 2026-11-15 【臺北水源特定區豐富植物生態🌿】- 水豬母乳：https://web.wra.gov.tw/welfare/News_Content.aspx?n=8938&s=75037
-- 2026-11-14 平穩物價 照顧民生 中油汽、柴油吸收6.0元及5.8元 11/16-11/22汽、柴油價格維持不調整：https://www.cpc.com.tw/News_Content.aspx?n=28&s=113010
-- 2026-11-14 AI與數位轉型課程平台：https://smelearning.sme.gov.tw/class_all.php?page=6&keyword=%E8%A1%8C%E9%8A%B7&tag=1&price_sort=0
-- 2026-11-14 核電不是振興經濟的萬靈丹 核能議題應回歸法治、科學與專業：https://www.moea.gov.tw/MNS/populace/news/News.aspx?kind=1&menu_id=40&news_id=124566
-- 2026-11-14 Greens Plus－黑水計畫：https://opendata.wra.gov.tw/worktogether/5
-- 2026-11-14 2026台灣國際遊艇展盛大開幕 78艘船艇齊聚高雄 展現臺灣遊艇產業國際實力：https://www.moea.gov.tw/MNS/populace/news/News.aspx?kind=1&menu_id=40&news_id=124564
-- 2026-11-14 社會創新平台| Social Innovation - 政府資源：https://startup.sme.gov.tw/sitaiwan/Home/Govproject/171
-- 2026-11-14 成功案例及商品化新知－鼻胃管照護痛點催生金牌發明阿爾傑科技讓小醫材創新走向國際：https://www.tipo.gov.tw/tw/tipo1/788-99933.html
-- 2026-11-14 成功案例及商品化新知－中山大學以矽光子晶片降低陀螺儀成本不靠GPS也能精準導航：https://www.tipo.gov.tw/tw/tipo1/788-99895.html
-- 2026-11-14 115年11月石門水庫街頭藝人展演場地名單：https://web.wra.gov.tw/shihmen/News_Content.aspx?n=8633&sms=12930&s=75101
-- 2026-11-13 2026乘夢來FUNd：北醫杏青康輔社會醫療藝術：https://startup.sme.gov.tw/sitaiwan/Home/Raise/View/483
-- 2026-11-13 本署將於11月16日(一)上午08時00分至18時00分暫停本署AI智能服務台網站服務，造成不便，敬請見諒。：https://www.wra.gov.tw/wra05/News_Content.aspx?n=11460&s=302389
-- 2026-11-13 產業服務電子報第 523 期：https://www.ida.gov.tw/ctlr?PRO=epaper.rwdEpaperView&id=7290
-- 2026-11-13 水利署將於11月16日(一)上午08時00分至18時00分暫停水利署AI智能服務台網站服務，造成不便，敬請見諒。：https://www.wra.gov.tw/wranb/News_Content.aspx?n=36754&sms=10129&s=302392
-- 2026-11-13 【近期活動】中企署於你・共創下一站 — 新創資源交流之夜：https://startup.sme.gov.tw/home/modules/calendar/detail/index.php?sId=8504
-- 2026-11-13 【近期活動】新創圓夢網｜【創業S級生存戰】線上資源解謎挑戰賽：破解任務抽好禮！：https://startup.sme.gov.tw/home/modules/calendar/detail/?sId=8505
-- 2026-11-13 經濟部商業署攜手產學研推動物流標準與共同化：https://www.moea.gov.tw/Mns/populace/news/News.aspx?kind=1&menu_id=40&news_id=124562
-- 2026-11-13 中企署推動亞灣新創園AI實證 加速南臺灣產業數位轉型：https://www.moea.gov.tw/MNS/populace/news/News.aspx?kind=1&menu_id=40&news_id=124561
-- 2026-11-13 業務快訊-本公司115年度第6期無擔保普通公司債獲AAA(twn)評等：https://www.taipower.com.tw/2289/2323/2337/70837/normalPost
-- 2026-11-13 【創業補給站】創業資源哪裡找？除了新創圓夢網，這 5 個政府平台你也該知道：https://startup.sme.gov.tw/home/modules/infopack/detail/?sId=160
-- 2026-11-13 甘蔗祭11/14-15甜蜜登場 台糖邀您相約萬丹體驗「蔗」文化：https://www.moea.gov.tw/MNS/populace/news/News.aspx?kind=1&menu_id=40&news_id=124557
-- 2026-11-13 115年度「團體推動標準化活動補助專案」自即日起受理提案申請(第1次公告)：https://www.moea.gov.tw/Mns/populace/news/News.aspx?kind=2&menu_id=41&news_id=124558
-- 2026-11-13 中企署偕15家新創企業前進新加坡 搶攻東協市場商機：https://startup.sme.gov.tw/home/modules/news/detial.php?sId=2274
-- 2026-11-13 綠色及永續金融知能系列講座 第13場 - 議題：能源管理與減碳實務：https://www.moea.gov.tw/Mns/populace/news/NewsActive.aspx?kind=4&menu_id=43&news_id=124556
-- 2026-11-13 安心使用除濕機 你不可不知：https://www.bsmi.gov.tw/bsmiGIP/wSite/ct?ctNode=8155&mp=3&xItem=119038
+- 2026-11-16 經濟部強化農曆年前沙拉油供應 公私協力穩定沙拉油市場秩序：https://www.ida.gov.tw/ctlr?PRO=news.NewsView&id=43440
+- 2026-11-16 經濟部因應美國關稅4大措施 截至11月12日辦理情形：https://www.ida.gov.tw/ctlr?PRO=news.NewsView&id=43439
+- 2026-11-16 未規劃亦未強制要求翡翠水庫設置太陽光電：https://www.wra.gov.tw/News_Content.aspx?n=6430&sms=9122&s=302503
+- 2026-11-16 【決標】2027年OPIC非洲查德分公司恩加美納辦公室營運綜合服務案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261116&fn=BDM-1-71331559.xml
+- 2026-11-16 【決標】環竹分歧竹海淡GIS副檔位導體銜接作業：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261116&fn=BDM-1-71331577.xml
+- 2026-11-16 【決標】谷關壩排洪門水下堵漏工作：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261116&fn=BDM-1-71331614.xml
+- 2026-11-16 【決標】經濟部116年度秘書處、綜規司暨投審司事務性工作承攬：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261116&fn=BDM-1-71331655.xml
+- 2026-11-16 【決標】114玉井所抽水機維護第2次後續擴充續約：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261116&fn=BDM-1-71331669.xml
+- 2026-11-16 【決標】114年度澎湖縣合界、烏崁及赤崁海堤構造物維修改善工程變更：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261116&fn=BDM-1-71331681.xml
+- 2026-11-16 【決標】115~117年大潭發電廠氨槽區廢液清理工作：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261116&fn=BDM-1-71331696.xml
+- 2026-11-16 【決標】116年度第十河川分署轄區河川及海岸緊急搶險(修)工程開口契約：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261116&fn=BDM-1-71331765.xml
+- 2026-11-16 【決標】115年接戶線改修及樹木修剪工作(北、市巡區)：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261116&fn=BDM-1-71331790.xml
+- 2026-11-16 【決標】116年度清潔維護類勞務性工作：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261116&fn=BDM-1-71331811.xml
+- 2026-11-16 【決標】白埔產業園區全區暨仁武產業園區部分範圍納編科技產業園區相關作業委託技術服務案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261116&fn=BDM-1-71331826.xml
+- 2026-11-16 【決標】115年度嘉義所水量計委外換裝作業(第1次後續擴充)：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261116&fn=BDM-1-71331867.xml
+- 2026-11-16 【決標】智慧製造設備推動計畫(第2次契約變更)：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261116&fn=BDM-1-71331882.xml
+- 2026-11-16 【決標】116年曾文水庫風景區遊樂區遊客團體傷害保險勞務承攬：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261116&fn=BDM-1-71331898.xml
+- 2026-11-16 【決標】115年度板橋所第9區、第17區、林口所第3區等委外用水量抄錄業務：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261116&fn=BDM-1-71331929.xml
+- 2026-11-16 【決標】台北南區營業處114年乙工區零星配電管路工程(實作實算契約變更)：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261116&fn=BDM-1-71331966.xml
+- 2026-11-16 【決標】116年停限電運轉圖資（OMS）維護及資料輸入工作：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261116&fn=BDM-1-71331967.xml
+- 2026-11-16 【決標】115年(C區)樹竹修剪工作：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261116&fn=BDM-1-71331978.xml
+- 2026-11-16 【決標】實時火焰特徵參數可視化暨分析系統1套：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261116&fn=BDM-1-71332003.xml
+- 2026-11-16 【決標】塔槽填料(tower packing)：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261116&fn=BDM-1-71332021.xml
+- 2026-11-16 【決標】加油站新式CIS鋁複合板：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261116&fn=BDM-1-71332061.xml
+- 2026-11-16 【決標】蘇澳供油中心#8油槽底板環保除鏽工作：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261116&fn=BDM-1-71332075.xml
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
