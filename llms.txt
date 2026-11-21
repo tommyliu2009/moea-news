@@ -4,11 +4,14 @@
 
 - 網址：https://web8.subsidyking.tw/
 - 主題：經濟部與所屬機關新聞
-- 更新：2026-11-21（每日自動更新）
+- 更新：2026-11-22（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-11-21 平穩物價 照顧民生 中油汽、柴油吸收5.9元及5.7元 11/23-11/29汽、柴油價格維持不調整：https://www.cpc.com.tw/News_Content.aspx?n=28&s=113026
+- 2026-11-21 我國經濟表現優異、動能強勁未受短期波動影響經濟部呼籲對產業發展保持信心| 新聞發布| 產業政策：https://www.ida.gov.tw/ctlr?PRO=news.NewsView&id=43446
+- 2026-11-21 經濟部推動產業儲能補助 結合驗證機制提升安全品質：https://tainan.bsmi.gov.tw/wSite/ct?xItem=126313&ctNode=9885&mp=1
 - 2026-11-20 即時說明-感謝國會支持撥補穩物價 台電：持續配合政府照顧民生：https://www.taipower.com.tw/2289/2323/2332/71129/normalPost
 - 2026-11-20 新手電動車主必看！電動車充電安全一次看懂：https://www.bsmi.gov.tw/wSite/ct?xItem=130573&ctNode=8155&mp=3
 - 2026-11-20 智財活動通-BOEHMERT & BOEHMERT Seminar | Live Webinar-歐洲智慧財產最新實務演講：https://www1.tipo.gov.tw/act/sp-activity-form-3823-e5b8b-formal-5.html
@@ -31,9 +34,6 @@
 - 2026-11-17 2026金點設計展11月17日松菸登場 匯聚16國家地區143件作品 以「設計之間」串連生活與產業創新：https://www.ida.gov.tw/ctlr?PRO=news.rwdNewsView&id=43441
 - 2026-11-17 最新消息最新消息-常態節水評比成效【申復/切結】填報作業，請先完成密碼變更！！：https://web.wra.gov.tw/wra_ewater/gen/news/upt.aspx?p0=31
 - 2026-11-17 穩定物價照顧民生兼顧產業與經濟成長呼籲立法院支持並通過115 年度追加預算案撥補與增資台灣中油：https://www.cpc.com.tw/News_Content.aspx?n=28&sms=8920&s=113017
-- 2026-11-17 即時說明-穩物價台電吸收鉅額燃料成本預算撥補全民受益台電：盼委員以民生為念：https://www.taipower.com.tw/2289/2323/2332/71031/normalPost
-- 2026-11-17 [Podcast] 世界電力新聞週報第225集-用過核燃料放哪裡？參考加拿大後端營運的成功經驗！：https://www.taipower.com.tw/2289/2512/2515/2521/70981/
-- 2026-11-17 輪胎能效檢驗新制正式實施！三大重點一次看：https://www.bsmi.gov.tw/wSite/ct?xItem=130549&ctNode=8155&mp=3
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
