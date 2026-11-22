@@ -22,7 +22,6 @@
 - 2026-11-19 布告欄－社團法人中華民國專利師公會即將於115年11月26日起受理116年度專利師職前訓練報名：https://www.tipo.gov.tw/tw/tipo1/799-102710.html
 - 2026-11-19 社團法人中華民國專利師公會即將於115年11月26日起受理116年度專利師職前訓練報名：https://www.tipo.gov.tw/tw/patents/515-102710.html
 - 2026-11-19 社會創新平台| Social Innovation - 永續科技競賽開始了，臺灣準備好了嗎？：https://startup.sme.gov.tw/sitaiwan/Home/citizensSay/view/4400
-- 2026-11-18 辰隆科技股份有限公司：https://startup.sme.gov.tw/sitaiwan/Home/Org?Fid=3877
 - 2026-11-18 設計從真實需求出發 標準局輔具產品通用設計競賽得獎名單出爐：https://www.bsmi.gov.tw/SafetyGIP/wSite/ct?xItem=130558&ctNode=8274&mp=65
 - 2026-11-18 116年度石岡壩辦公區清潔及蓄水面漂流物打撈(116-SMC-06)(第一次公開招標)：https://www.wra.gov.tw/wracb/News_Content.aspx?n=41265&sms=10263&s=302550
 - 2026-11-18 115年第3季-經濟部因應國際情勢編列韌性特別預算推動產業支持計畫與成果效益報告：https://www.ida.gov.tw/ctlr?PRO=executive.ExecutiveInfoView&id=17361
@@ -34,6 +33,7 @@
 - 2026-11-17 2026金點設計展11月17日松菸登場 匯聚16國家地區143件作品 以「設計之間」串連生活與產業創新：https://www.ida.gov.tw/ctlr?PRO=news.rwdNewsView&id=43441
 - 2026-11-17 最新消息最新消息-常態節水評比成效【申復/切結】填報作業，請先完成密碼變更！！：https://web.wra.gov.tw/wra_ewater/gen/news/upt.aspx?p0=31
 - 2026-11-17 穩定物價照顧民生兼顧產業與經濟成長呼籲立法院支持並通過115 年度追加預算案撥補與增資台灣中油：https://www.cpc.com.tw/News_Content.aspx?n=28&sms=8920&s=113017
+- 2026-11-17 即時說明-穩物價台電吸收鉅額燃料成本預算撥補全民受益台電：盼委員以民生為念：https://www.taipower.com.tw/2289/2323/2332/71031/normalPost
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
