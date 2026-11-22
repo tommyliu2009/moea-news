@@ -18,22 +18,22 @@
 - 2026-11-20 香港商博士音響股份有限公司台灣分公司Bose S1 Pro 及 S1 Pro+系統電池組召回訊息：https://www.bsmi.gov.tw/SafetyGIP/wSite/ct?xItem=130572&ctNode=8206&mp=65
 - 2026-11-20 ▍企業創投 × 新創交流，CVC聯誼會專場揭幕！：https://www.ida.gov.tw/ctlr?PRO=news.NewsView&type=Insights&id=43445
 - 2026-11-20 來中油，好方便 台灣中油連續6年響應世界廁所日 全台串聯加油站公廁清潔活動：https://www.cpc.com.tw/News_Content.aspx?n=28&s=113025
-- 2026-11-19 標準檢驗局舉辦「修正玩具商品檢驗作業規定業者說明會」，歡迎踴躍報名!：https://www.bsmi.gov.tw/wSite/ct?xItem=130563&ctNode=8324&mp=111
-- 2026-11-19 布告欄－社團法人中華民國專利師公會即將於115年11月26日起受理116年度專利師職前訓練報名：https://www.tipo.gov.tw/tw/tipo1/799-102710.html
-- 2026-11-19 社團法人中華民國專利師公會即將於115年11月26日起受理116年度專利師職前訓練報名：https://www.tipo.gov.tw/tw/patents/515-102710.html
-- 2026-11-19 社會創新平台| Social Innovation - 永續科技競賽開始了，臺灣準備好了嗎？：https://startup.sme.gov.tw/sitaiwan/Home/citizensSay/view/4400
-- 2026-11-18 設計從真實需求出發 標準局輔具產品通用設計競賽得獎名單出爐：https://www.bsmi.gov.tw/SafetyGIP/wSite/ct?xItem=130558&ctNode=8274&mp=65
-- 2026-11-18 116年度石岡壩辦公區清潔及蓄水面漂流物打撈(116-SMC-06)(第一次公開招標)：https://www.wra.gov.tw/wracb/News_Content.aspx?n=41265&sms=10263&s=302550
-- 2026-11-18 115年第3季-經濟部因應國際情勢編列韌性特別預算推動產業支持計畫與成果效益報告：https://www.ida.gov.tw/ctlr?PRO=executive.ExecutiveInfoView&id=17361
-- 2026-11-18 傳承百年電業文化！台電連續兩屆榮獲「ESG for Culture影響力獎：https://www.taipower.com.tw/2289/2323/2324/71095/normalPost
-- 2026-11-18 經濟部水利署第一河川分署工友公開徵選公告：https://www.wra.gov.tw/wra01/News_Content.aspx?n=9383&sms=9203&s=302521
-- 2026-11-18 ▍匯聚 16 國頂尖創意！2026 金點設計展松菸開展：https://www.ida.gov.tw/ctlr?PRO=news.NewsView&id=43443&lang=0
-- 2026-11-18 本署將分別於11月24日(二)、11月25日(三)中午12時00分至13時30分暫停本署全球網、專屬網站等38個網站服務與主題網站等23個網站服務，造成不便，敬請見諒。：https://web.wra.gov.tw/wrafpc/News_Content_WrafpcStyle1.aspx?n=7833&sms=12776&s=75206
-- 2026-11-17 本局臺日專利檔卷資訊查詢服務將於115年11月21日(六)凌晨3時30分至115年11月23(一)上午6時暫停日方案件查詢服務。：https://www.tipo.gov.tw/tw/tipo1/799-102737.html
-- 2026-11-17 2026金點設計展11月17日松菸登場 匯聚16國家地區143件作品 以「設計之間」串連生活與產業創新：https://www.ida.gov.tw/ctlr?PRO=news.rwdNewsView&id=43441
-- 2026-11-17 最新消息最新消息-常態節水評比成效【申復/切結】填報作業，請先完成密碼變更！！：https://web.wra.gov.tw/wra_ewater/gen/news/upt.aspx?p0=31
-- 2026-11-17 穩定物價照顧民生兼顧產業與經濟成長呼籲立法院支持並通過115 年度追加預算案撥補與增資台灣中油：https://www.cpc.com.tw/News_Content.aspx?n=28&sms=8920&s=113017
-- 2026-11-17 即時說明-穩物價台電吸收鉅額燃料成本預算撥補全民受益台電：盼委員以民生為念：https://www.taipower.com.tw/2289/2323/2332/71031/normalPost
+- 2026-11-20 經濟部標準檢驗局臺南分局：https://tainan.bsmi.gov.tw/wSite/mp?mp=6
+- 2026-11-20 標準局將自115年7月1日起實施「電動車充電設備」等9項商品檢驗規定 強化商品安全：https://www.bsmi.gov.tw/wSite/ct?xItem=127889&ctNode=8157&mp=3
+- 2026-11-20 【決標】屏東縣竹田鄉竹田村等供水延管工程(一)第一次變更設計(新增工項)：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261120&fn=BDM-1-71336941.xml
+- 2026-11-20 【決標】115年度市區服務中心營業廳櫃台候收工作：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261120&fn=BDM-1-71337029.xml
+- 2026-11-20 【決標】116年廠區飲水機及開水機等維護保養檢查工作：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261120&fn=BDM-1-71337084.xml
+- 2026-11-20 【決標】桃園處新富加油站管線設備汰換改善工作(第一次工作追加減)：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261120&fn=BDM-1-71337096.xml
+- 2026-11-20 【決標】MSA 閥類與零件採購一批：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261120&fn=BDM-1-71337183.xml
+- 2026-11-20 【決標】大林廠第二動力工場空氣壓縮機配件升級(FS ELLIOTT)(採購帶安裝)：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261120&fn=BDM-1-71337185.xml
+- 2026-11-20 【決標】116年飛灰倉及附屬設備經常維護工作：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261120&fn=BDM-1-71337197.xml
+- 2026-11-20 【決標】核三廠緊急應變作業場所耐震檢核工作：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261120&fn=BDM-1-71337212.xml
+- 2026-11-20 【決標】116年北區零售中心油氣回收、加油設備檢測保養及維修(一年開口合約)：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261120&fn=BDM-1-71337283.xml
+- 2026-11-20 【決標】115年度第六河川分署轄管河川排水疏濬前置地形測量及疏濬檢測計畫CCO：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261120&fn=BDM-1-71337303.xml
+- 2026-11-20 【決標】新中12吋柴油管線中繼站過濾系統增建工作(第一次追加減)：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261120&fn=BDM-1-71337314.xml
+- 2026-11-20 【決標】115年委外進駐桃園市政府養工程處駐點服務-單價發包(第1次後續擴充)：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261120&fn=BDM-1-71337318.xml
+- 2026-11-20 【決標】116年彰維M2號定期換表、AMI佈建換表暨表箱更換工作B區：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261120&fn=BDM-1-71337339.xml
+- 2026-11-20 【決標】115~117年度冷凍空調及通風設備維護檢修工作：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261120&fn=BDM-1-71337356.xml
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
