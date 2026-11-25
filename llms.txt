@@ -4,36 +4,36 @@
 
 - 網址：https://web8.subsidyking.tw/
 - 主題：經濟部與所屬機關新聞
-- 更新：2026-11-25（每日自動更新）
+- 更新：2026-11-26（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
-- 2026-11-24 新南向產業合作十年有成 六國論壇促成298項MOU 以優勢產業帶動傳產轉型 攜手夥伴國開創下一個十年：https://www.ida.gov.tw/ctlr?PRO=news.NewsView&id=43451
-- 2026-11-24 116年度鯉魚潭水庫蓄水區漂流物打撈及出露邊坡雜物清理(116-LMC-09)(第一次公開招標)：https://www.wra.gov.tw/wracb/News_Content.aspx?n=41265&sms=10263&s=302713
-- 2026-11-24 台灣中油已提前採購並調度 至明（116）年春節國內油氣供應無虞：https://www.cpc.com.tw/News_Content.aspx?n=28&sms=8920&s=113032
-- 2026-11-24 中小企業線上學習、AI與數位轉型課程平台：https://smelearning.sme.gov.tw/tier_news.php?node=927
-- 2026-11-24 台電支持多元藝術創作 「愛在畫中」綻放生命光彩：https://service.taipower.com.tw/branch/d115/xmdoc/cont?xsmsid=0M242581313450953093&sid=0Q328423478074264140
-- 2026-11-24 台灣智慧駕駛／解決交通缺工、安全痛點 打造臺灣自駕技術的新典範：https://startup.sme.gov.tw/home/event/case/?view=detail&id=30
-- 2026-11-24 【決標】114年人、手孔蓋升降及周邊加固維護工作(甲工區)：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261124&fn=BDM-1-71339565.xml
-- 2026-11-24 【決標】116年度永安產業園區污水處理廠機械設備維修工作：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261124&fn=BDM-1-71339583.xml
-- 2026-11-24 【決標】高屏溪下游揚塵改善單價(第一次續約)：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261124&fn=BDM-1-71339591.xml
-- 2026-11-24 【決標】116年林口電廠灰倉及出灰設備環境清潔整理：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261124&fn=BDM-1-71339633.xml
-- 2026-11-24 【決標】林園石化廠新三輕組裂解及低溫工場大修塔槽內部及內配件清理整修工作：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261124&fn=BDM-1-71339635.xml
-- 2026-11-24 【決標】116年度花東地區各變電所草坪整理工作：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261124&fn=BDM-1-71339649.xml
-- 2026-11-24 【決標】115年航空助理加油服務員勞務工作(一年長約)-後續擴充：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261124&fn=BDM-1-71339663.xml
-- 2026-11-24 【決標】屏東縣竹田鄉竹田村(一)等用戶新裝工作第一次契約變更(新增工項)：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261124&fn=BDM-1-71339687.xml
-- 2026-11-24 【決標】高鳳加油站裝修及美化工程(第二次變更)：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261124&fn=BDM-1-71339702.xml
-- 2026-11-24 【決標】儀資設備採購一批：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261124&fn=BDM-1-71339716.xml
-- 2026-11-24 【決標】CCO:114年度電桿牌裝設暨桿上設備檢點維護工作(契約變更)：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261124&fn=BDM-1-71339717.xml
-- 2026-11-24 【決標】COSMOS手持式VOC檢測儀(XP系列)等維護校正工作：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261124&fn=BDM-1-71339769.xml
-- 2026-11-24 【決標】天輪分廠#4機電力電纜抽換及更新財物採購含安裝：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261124&fn=BDM-1-71339875.xml
-- 2026-11-24 【決標】115年度A+企業創新研發淬鍊推動與管理計畫(第2期/共4期)(第一次契約變更)：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261124&fn=BDM-1-71339908.xml
-- 2026-11-24 【決標】116年台北地區公務車駕駛：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261124&fn=BDM-1-71339927.xml
-- 2026-11-24 【決標】115年湳雅、明新高壓變壓器汰換：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261124&fn=BDM-1-71339953.xml
-- 2026-11-24 【決標】115年度「高壓直流電源系統(HVDC)標準檢測驗證先期研究計畫」：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261124&fn=BDM-1-71339983.xml
-- 2026-11-24 【決標】1000mm超音波式水量計1套(含安裝試車)：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261124&fn=BDM-1-71339991.xml
-- 2026-11-24 【決標】台電彰化區處貢旗電桿場整地工程委外規劃設計：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261124&fn=BDM-1-71340016.xml
+- 2026-11-25 台灣中油榮獲2026台灣企業永續獎(TCSA)4項大獎 深耕ESG作為 邁向永續經營：https://www.cpc.com.tw/News_Content.aspx?n=28&s=113033
+- 2026-11-25 智耕雲-智慧生產解決方案｜N世代學苑NexTech Academy：https://startup.sme.gov.tw/ntacademy/detail_fast_tool?id=98
+- 2026-11-25 Supr.Link 縮網址服務｜N世代學苑NexTech Academy：https://startup.sme.gov.tw/ntacademy/detail_fast_tool?id=84
+- 2026-11-25 2026產業淨零成果發表登場 389廠取得碳費優惠資格、產創條例投抵力挺AI減碳：https://www.ida.gov.tw/ctlr?PRO=news.NewsView&id=43454
+- 2026-11-25 台電獲2026台灣企業永續獎3大獎永續報告八度奪最高榮譽白金獎：https://www.taipower.com.tw/2289/2323/2324/71145/normalPost
+- 2026-11-25 2025 臺灣新創生態系報告：大小共創開啟新章：https://findit.sme.gov.tw/tw/Res/2757
+- 2026-11-25 公告本署116年「IDDI設計驅動產業創新補助」之補助資格條件及補助科目範圍。：https://www.ida.gov.tw/ctlr?PRO=news.NewsView&id=43453&type=eBulletin
+- 2026-11-25 ▍雙邊貿易巨幅成長！新南向產業合作10週年交出亮眼成績單：https://www.ida.gov.tw/ctlr?PRO=news.NewsView&type=Insights&id=43452
+- 2026-11-25 臺中市政府政風處製作之「陽光城市手牽手，綠能透明齊步走」動畫影片：https://tainan.bsmi.gov.tw/wSite/ct?xItem=129608&ctNode=8105&mp=8
+- 2026-11-25 【公開招標】永康、新市及新營所轄區委外抄表：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71170545.xml
+- 2026-11-25 【公開招標】玉里服務所防颱百葉窗採購暨安裝案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71170630.xml
+- 2026-11-25 【公開招標】基隆化驗中心「電量法卡氏水分測試儀」一台：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71170951.xml
+- 2026-11-25 【公開招標】智慧型定位器、用具包等15項：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71172203.xml
+- 2026-11-25 【公開招標】龍潭配氣站施工及營運期環境監測工作：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71172387.xml
+- 2026-11-25 【公開招標】116年度拷潭廠監控設備整修單價：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71172557.xml
+- 2026-11-25 【公開招標】116年配電設計電腦資料輸入、文書處理及相關工作：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71172873.xml
+- 2026-11-25 【公開招標】永安廠116年員工工作服洗燙：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71172894.xml
+- 2026-11-25 【公開招標】116年度配電線路維護工作：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71173367.xml
+- 2026-11-25 【公開招標】116年度勤務類勞務性及業務量工作(大林工區)：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71173456.xml
+- 2026-11-25 【公開招標】116年度勤務類勞務性外包人力工作：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71173583.xml
+- 2026-11-25 【公開招標】電力通信處116年度南部地區零星光纜積點工程：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71173912.xml
+- 2026-11-25 【公開招標】115年度電氣設備檢修勞務性工作：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71173975.xml
+- 2026-11-25 【公開招標】116年配電圖資建立與維護工作：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71173980.xml
+- 2026-11-25 【公開招標】115年度基隆愛三路130號小區水量計建置：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71173987.xml
+- 2026-11-25 【公開招標】116年配電圖資建立及維護工作：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71174081.xml
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
