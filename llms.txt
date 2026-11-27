@@ -4,11 +4,23 @@
 
 - 網址：https://web8.subsidyking.tw/
 - 主題：經濟部與所屬機關新聞
-- 更新：2026-11-26（每日自動更新）
+- 更新：2026-11-28（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-11-27 產業服務電子報第 524 期：https://www.ida.gov.tw/ctlr?PRO=epaper.rwdEpaperView&id=7291
+- 2026-11-27 委託服務計畫採公開評選或審查之採購作業流程補充說明：https://www.wra.gov.tw/wralaw/Law_Content.aspx?n=9295&s=12944&sms=9191
+- 2026-11-27 確保選舉供電穩定台電動員超過3000人全力戒備：https://www.taipower.com.tw/2289/2323/2324/71172/normalPost
+- 2026-11-27 扣動旋件韌性升級推動計畫| 招標公告：https://www.ida.gov.tw/ctlr?PRO=bid.BidView&id=17263&lang=0
+- 2026-11-27 「度量衡規費收費標準」英譯徵詢意見。：https://www.bsmi.gov.tw/wSite/fp?xItem=130808&ctNode=8322&mp=1
+- 2026-11-26 美國301結構性產能過剩調查 台灣列最低稅率級別 經濟部：協助產業爭取公平立足點，維持產業競爭力：https://www.ida.gov.tw/ctlr?PRO=news.NewsView&id=43455
+- 2026-11-26 營業秘密刑事案件-智慧財產及商業法院111年度刑智上重訴字第2號刑事判決(1140831)：https://www.tipo.gov.tw/tw/tradesecrets/883-102868.html
+- 2026-11-26 臺灣製產品品級優化暨推廣計畫：https://www.ida.gov.tw/ctlr?PRO=project.ProjectView&id=1996
+- 2026-11-26 營業秘密刑事案件-臺灣桃園地方法院111年度智重訴字第7號刑事判決(1150119)：https://www.tipo.gov.tw/tw/tradesecrets/883-102869.html
+- 2026-11-26 能源管理學院- 掌握綠色競爭力！經濟部「永續發展專區」網站全新上線，歡迎各界踴躍點閱：https://ea02.moeaea.gov.tw/e0801/mooc/energy/news/info_content.php?type=3&id=1399
+- 2026-11-26 標準局與消保處共同公布市售「按壓玩具（捏捏樂）」商品檢測結果：https://www.bsmi.gov.tw/wSite/ct?xItem=130264&ctNode=8321&mp=1
+- 2026-11-26 115年度「在地就近計程車計費表行走檢定服務」：https://www.bsmi.gov.tw/bsmiGIP/wSite/ct?xItem=129083&ctNode=9885&mp=58
 - 2026-11-25 台灣中油榮獲2026台灣企業永續獎(TCSA)4項大獎 深耕ESG作為 邁向永續經營：https://www.cpc.com.tw/News_Content.aspx?n=28&s=113033
 - 2026-11-25 智耕雲-智慧生產解決方案｜N世代學苑NexTech Academy：https://startup.sme.gov.tw/ntacademy/detail_fast_tool?id=98
 - 2026-11-25 Supr.Link 縮網址服務｜N世代學苑NexTech Academy：https://startup.sme.gov.tw/ntacademy/detail_fast_tool?id=84
@@ -22,18 +34,6 @@
 - 2026-11-25 【公開招標】玉里服務所防颱百葉窗採購暨安裝案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71170630.xml
 - 2026-11-25 【公開招標】基隆化驗中心「電量法卡氏水分測試儀」一台：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71170951.xml
 - 2026-11-25 【公開招標】智慧型定位器、用具包等15項：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71172203.xml
-- 2026-11-25 【公開招標】龍潭配氣站施工及營運期環境監測工作：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71172387.xml
-- 2026-11-25 【公開招標】116年度拷潭廠監控設備整修單價：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71172557.xml
-- 2026-11-25 【公開招標】116年配電設計電腦資料輸入、文書處理及相關工作：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71172873.xml
-- 2026-11-25 【公開招標】永安廠116年員工工作服洗燙：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71172894.xml
-- 2026-11-25 【公開招標】116年度配電線路維護工作：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71173367.xml
-- 2026-11-25 【公開招標】116年度勤務類勞務性及業務量工作(大林工區)：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71173456.xml
-- 2026-11-25 【公開招標】116年度勤務類勞務性外包人力工作：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71173583.xml
-- 2026-11-25 【公開招標】電力通信處116年度南部地區零星光纜積點工程：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71173912.xml
-- 2026-11-25 【公開招標】115年度電氣設備檢修勞務性工作：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71173975.xml
-- 2026-11-25 【公開招標】116年配電圖資建立與維護工作：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71173980.xml
-- 2026-11-25 【公開招標】115年度基隆愛三路130號小區水量計建置：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71173987.xml
-- 2026-11-25 【公開招標】116年配電圖資建立及維護工作：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71174081.xml
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
